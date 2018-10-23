@@ -55,15 +55,58 @@ xOD01 OD01;
 #define RED 12
 #define GREEN 13
 #define BLUE 5
+int t1;
 
 BlynkTimer timer;
+void requestTime() {
+  Blynk.sendInternal("rtc", "sync");
+}
 /***************************** Sketch Code ***********************************/
+
+BLYNK_WRITE(InternalPinRTC) {
+  long t = param.asLong();
+  Serial.print("Unix time: ");
+  Serial.print(t);
+  Serial.println();
+}
+
+// Toggle LED
+void ledBlynk()
+{
+  digitalWrite(RED, !digitalRead(RED));
+}
+
+
+// Enable/disable blinking using virtual pin 1
+BLYNK_WRITE(V2)
+{
+  if (param.asInt()) {
+    timer.enable(t1);
+  } else {
+    timer.disable(t1);
+    digitalWrite(RED, LOW);
+  }
+}
+
+// Change blink interval using virtual pin 8
+BLYNK_WRITE(V8)
+{
+  long interval = param.asLong();
+  boolean wasEnabled = timer.isEnabled(t1);
+  timer.deleteTimer(t1);
+  t1 = timer.setInterval(interval, ledBlynk);
+  if (!wasEnabled) {
+    timer.disable(t1);
+  }
+}
+
+
 
 void sendSensor()
 {
   float temperature = SW01.getTempC();
   float humidity = SW01.getHumidity();
-
+  float altitude = SW01.getAltitude(101325);
   if (isnan(temperature) || isnan(humidity)) {
     Serial.println("Failed to read from Xinabox SW01 sensor!");
     return;
@@ -72,6 +115,7 @@ void sendSensor()
   // Please don't send more that 10 values per second.
   Blynk.virtualWrite(V5, temperature);
   Blynk.virtualWrite(V6, humidity);
+  Blynk.virtualWrite(V4, altitude);
 }
 
 
@@ -129,9 +173,15 @@ void setup()
   pinMode(GREEN, OUTPUT);
   pinMode(BLUE, OUTPUT);
 
+   // Configure LED and timer
+  pinMode(RED, OUTPUT);
+  t1 = timer.setInterval(500L, ledBlynk);
+  timer.disable(t1);
+
   // Connect to WIFI
    // Setup a function to be called every second
-  timer.setInterval(1000L, sendSensor);
+  timer.setInterval(2000L, sendSensor);
+  timer.setInterval(10000L, requestTime);
 }
 
 void loop()
