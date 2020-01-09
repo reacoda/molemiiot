@@ -16,6 +16,7 @@ The circuit for the LEDs is exactly the same as the activity above. Connect the 
 
 A switch either lets the current flow, or doesn’t. This seems simple enough, but in a logic circuit, the current should be always flowing in either a high or low state \(remember – 1 or 0, high or low\). You might assume that a pushbutton switch that isn’t actually being pushed would be defined as being in a low state, but in fact it’s said to be ‘floating’, because no current is being drawn at all.
 
+In this floating state, it’s possible that a false reading will occur as it fluctuates with electrical interference. In other words, a floating switch is giving neither a reliable high, nor low state reading. A pull-down resistor keeps a small amount of current flowing when the switch is closed, thereby ensuring an accurate low state reading. In other logic circuits, you may find a pull-up resistor instead – this works on the same principle, but in reverse, making sure that particular logic gate defaults to high.  
 
 
   
