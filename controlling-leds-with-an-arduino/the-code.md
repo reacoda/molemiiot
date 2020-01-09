@@ -75,8 +75,35 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   
+  // green off, yellow on for 3 seconds
   
+  digitalWrite(greenLED, LOW);
+  digitalWrite(yellowLED, HIGH);
+  delay(3000);
+  
+  // turn off yellow, then turn red on for 5 seconds
+  
+  digitalWrite(yellow, LOW);
+  digitalWrite(red, HIGH);
+  delay(5000);
+
+  // red and yellow on for 2 seconds (red is already on though)
+  
+  digitalWrite(yellow, HIGH);
+  delay(2000);
+  
+  // turn off red and yellow, then turn on green
+  digitalWrite(yellow, LOW);
+  digitalWrite(red, LOW);
+  digitalWrite(green, HIGH);
+  delay(3000);    
 
 }
 ```
+
+Verify and upload the code to your Arduino board using the icons shown below:
+
+![Verify/Upload code \(Core Electronics, Australia\)](../.gitbook/assets/verifyuploadcode%20%281%29.png)
+
+
 
