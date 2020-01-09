@@ -9,5 +9,6 @@
 * [Introducing Sensors](introducing-sensors/README.md)
   * [The Code](introducing-sensors/the-code/README.md)
     * [Explaining the Code](introducing-sensors/the-code/explaining-the-code.md)
-* [Introducing the NodeMCU](introducing-the-nodemcu.md)
+* [Introducing the NodeMCU](introducing-the-nodemcu/README.md)
+  * [Getting Started](introducing-the-nodemcu/getting-started.md)
 
