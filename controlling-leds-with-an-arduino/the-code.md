@@ -103,7 +103,7 @@ void loop() {
 
 Verify and upload the code to your Arduino board using the icons shown below:
 
-![Verify/Upload code \(Core Electronics, Australia\)](../.gitbook/assets/verifyuploadcode%20%281%29.png)
+![Verify/Upload code \(Core Electronics, Australia\)](../.gitbook/assets/verifyuploadcode.png)
 
 
 

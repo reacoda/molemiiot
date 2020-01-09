@@ -11,5 +11,9 @@ description: >-
 
 The NodeMCU is also an open source board that is based on the ESP8266 WiFi module. Just like the Uno, it is also low-cost and ideal for building robust IoT projects.
 
+![NodeMCU board \(mechatronicsblog.com\)](../.gitbook/assets/nodemcu.png)
+
+
+
 
 
