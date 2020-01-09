@@ -8,7 +8,7 @@ We will be using the Arduino board as it is open-source and affordable.
 
 #### What is an Arduino ?
 
-![Arduino Uno ](.gitbook/assets/arduino.PNG)
+![Arduino Uno \(arduino.cc\)](.gitbook/assets/arduino-uno.png)
 
 An Arduino board is an open-source micro-controller that is used 
 
