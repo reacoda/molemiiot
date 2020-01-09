@@ -1,4 +1,4 @@
-# Introduction to Arduino Programming
+# Introduction to Arduino
 
 One of the micro-controllers that will be used for the the Sustainable Farming Methods workshop will be the Arduino board. We will be using two variations namely the Arduino Uno and the NodeMCU.  
   
