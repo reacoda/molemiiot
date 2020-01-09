@@ -7,5 +7,7 @@ description: >-
 
 # Introducing Sensors
 
-### 
+### The TMP34 temperature sensors 
+
+In this part of the session we will be using a simple temperature sensor, the TMP34, to measure the ambient room temperature. 
 
