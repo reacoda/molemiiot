@@ -29,7 +29,17 @@ In order to start using the board, one needs to setup the Arduino IDE on their d
 7.  **Power connector** This is how you power your Genuino when it’s not plugged into a USB port for power. Can accept voltages between 7-12V.
 8.  **TX and RX LEDs** These LEDs indicate communication between your Genuino and your computer. Expect them to flicker rapidly during sketch upload as well as during serial communication. Useful for debugging.
 9.  **USB port** Used for powering your Uno, uploading your sketches, and for communicating with your sketch \(via Serial. println\(\) etc.\).
-10.  **Reset button** Resets the ATmega microcontroller.
+10.  **Reset button** Resets the ATmega microcontroller. 
+
+For more details on the different parts of the Arduino please visit the [Arduino foundations page](https://www.arduino.cc/en/Tutorial/Foundations).
+
+### Reference:
+
+1. Arduino get started page \([https://www.arduino.cc/en/Guide/HomePage](https://www.arduino.cc/en/Guide/HomePage)\).
+2. Arduino Board Anatomy page \( [https://www.arduino.cc/en/Guide/BoardAnatomy](https://www.arduino.cc/en/Guide/BoardAnatomy) \)
+3. Arduino Foundations Page \( [https://www.arduino.cc/en/Tutorial/Foundations](https://www.arduino.cc/en/Tutorial/Foundations) \)
+
+
 
 ####  
 
