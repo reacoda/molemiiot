@@ -27,6 +27,8 @@ Wire up your breadboard so you have power and ground. Connect the ground and pow
 
 ![](https://lh5.googleusercontent.com/GLaKNuV7S5z_L-9ihXCGcTnfPLIoTW1dKUYUJwxXocudakP8-3FbR6sedoOzWVz6YDx4oecRlPA1Dj-XHAyXUefEmpfmWQbQlwjEWC90s9BKIv6kEVqgFMgyTJbhQI3g8EI9MCBY)
 
+Constants are similar to variables in that they allow you to uniquely name things in the program, but unlike variables they cannot change. Name the analog input for easy reference, and create another named constant to hold the baseline temperature.
+
   
 
 
