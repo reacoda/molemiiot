@@ -25,9 +25,9 @@ On your computer, open the Arduino IDE program. Connect the USB cable to the com
 
 On the IDE, select the relevant board and the COM port according to the following diagram: 
 
-![Selecting the board type \(arduino.cc\)](.gitbook/assets/uno_boardtype.jpg)
+![Selecting the board type \(arduino.cc\)](../.gitbook/assets/uno_boardtype.jpg)
 
-![Selecting the COM port](.gitbook/assets/52309f4f757b7fbd2d8b4567.png)
+![Selecting the COM port](../.gitbook/assets/52309f4f757b7fbd2d8b4567.png)
 
 
 
