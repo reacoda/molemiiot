@@ -1,4 +1,4 @@
-# molemiiot is platform used to manage small and medium scale farms. It is used to remotely control th
+# Space farming using food computers for sustainable farming
 
 These are the learning materials and curriculum that will be used for the hands-on workshop: Applications of Internet of Things\(IoT\), Data Science and Machine Learning \(ML\) for sustainable farming.‌
 
