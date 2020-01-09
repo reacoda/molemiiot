@@ -9,5 +9,12 @@ description: >-
 
 ### The TMP34 temperature sensors 
 
-In this part of the session we will be using a simple temperature sensor, the TMP34, to measure the ambient room temperature. 
+In this part of the session we will be using a simple temperature sensor, the TMP34, to measure the ambient room temperature. The sensor readings will be displayed on the serial port.
 
+#### What will you need ?
+
+* Arduino Uno Board
+* 3 X male-to-male jumper wires 
+* Breadboard 
+* TMP34 temperature sensor 
+* 
