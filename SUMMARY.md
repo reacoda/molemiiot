@@ -4,4 +4,5 @@
 * [Introduction to Arduino](introduction-to-arduino-programming.md)
 * [Controlling LEDs with an Arduino](controlling-leds-with-an-arduino/README.md)
   * [The Code](controlling-leds-with-an-arduino/the-code.md)
+* [Introducing Sensors](introducing-sensors.md)
 
