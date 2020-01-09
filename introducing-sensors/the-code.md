@@ -89,7 +89,9 @@ delay(1);
 }
 ```
 
-The voltage will be a value between 0 and 5 volts, and it will have a fractional part \(for example, it might be 2.5 volts\), so you’ll need to store it inside a float. Create a variable named voltage to hold this number. Divide sensorVal by 1024.0 and multiply by 5.0. The new number represents the voltage on the pin.   
+The voltage will be a value between 0 and 5 volts, and it will have a fractional part \(for example, it might be 2.5 volts\), so you’ll need to store it inside a float. Create a variable named voltage to hold this number. Divide sensorVal by 1024.0 and multiply by 5.0. The new number represents the voltage on the pin. 
+
+  
   
   
   
