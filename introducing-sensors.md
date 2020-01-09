@@ -17,4 +17,7 @@ In this part of the session we will be using a simple temperature sensor, the TM
 * 3 X male-to-male jumper wires 
 * Breadboard 
 * TMP34 temperature sensor 
-* 
+* A computer with an Arduino IDE software 
+
+
+
