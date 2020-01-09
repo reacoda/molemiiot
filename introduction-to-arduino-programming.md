@@ -10,5 +10,11 @@ We will be using the Arduino board as it is open-source and affordable.
 
 ![Arduino Uno \(arduino.cc\)](.gitbook/assets/arduino-uno.png)
 
-An Arduino board is an open-source micro-controller that is used 
+An Arduino board is an open-source micro-controller that is used to read inputs - temperature and humidity on a sensor, pressing/toggling a button and it is able to give out outputs - turning a motor and switching on an LED \(read [full introduction here](https://www.arduino.cc/en/Guide/Introduction)\).
+
+### Getting Started
+
+In order to start using the board, one needs to setup the Arduino IDE on their desktop by using the [getting started user guide](https://www.arduino.cc/en/Guide/HomePage).
+
+#### The Ard 
 
