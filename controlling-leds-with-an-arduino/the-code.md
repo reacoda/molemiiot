@@ -58,5 +58,25 @@ void loop() {
 
 Finally, write the code that will turn the LEDs on for a certain period of time and then switch them off for another certain period of time:
 
+```text
+int redLED = 10;
+int yellowLED = 9;
+int greenLED = 8;
 
+void setup() {
+  // put your setup code here, to run once:
+  
+  pinMode(redLED, OUTPUT);
+  pinMode(yellowLED, OUTPUT);
+  pinMode(greenLED, OUTPUT);
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  
+  
+
+}
+```
 
