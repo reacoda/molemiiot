@@ -15,7 +15,13 @@ description: >-
 * Breadboard 
 * A computer with the Arduino IDE software.
 
-Connect the anode \(long leg\) of each LED to digital pins eight, nine, and ten \(via the 100 resistors\). Connect the cathodes \(short leg\) to Arduino ground.
+Connect the anode \(long leg\) of each LED to digital pins eight, nine, and ten \(via the 100 resistors\). Connect the cathodes \(short leg\) to Arduino ground. According to the diagram below:
+
+
+
+![3 LEDs connected to an arduino](https://lh6.googleusercontent.com/3WI3ICi_DaPX_mcB-Gq9FPHYP2dDgMQuzCmH5Rcj6qKFV2iXTxzN3XvrE6y0sto8JG2-EUEJYtaaOud4nCghXDS_A_0kwhR3VWCDm9x4tY-vTPC5A9mTEmL4FF1EqPh4dK20peuW)
+
+
 
 
 
