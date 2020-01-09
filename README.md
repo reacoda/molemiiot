@@ -1,1 +1,2 @@
-# molemiiot is platform used to manage small and medium scale farms. It is used to remotely control the irrigation system; take temperature, humidity and soil moisture readings. It also has weather forecasting to advice the farmer when to prepare for severe weather conditions. 
+# molemiiot is platform used to manage small and medium scale farms. It is used to remotely control th
+
