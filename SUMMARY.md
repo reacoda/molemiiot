@@ -16,5 +16,6 @@
 * [Read and Display temperature sensor  readings with NodeMCU.](read-and-display-temperature-sensor-readings/README.md)
   * [Installing libraries for DS18B20 temperature sensor.](read-and-display-temperature-sensor-readings/installing-libraries-for-ds18b20-temperature-sensor..md)
   * [Displaying the sensor readings on the serial port](read-and-display-temperature-sensor-readings/displaying-the-sensor-readings-on-the-serial-port/README.md)
-    * [Getting temperature readings from different DS18B20 sensors.](read-and-display-temperature-sensor-readings/displaying-the-sensor-readings-on-the-serial-port/getting-temperature-readings-from-different-ds18b20-sensors..md)
+    * [Getting temperature readings from different DS18B20 sensors.](read-and-display-temperature-sensor-readings/displaying-the-sensor-readings-on-the-serial-port/getting-temperature-readings-from-different-ds18b20-sensors./README.md)
+      * [The Code](read-and-display-temperature-sensor-readings/displaying-the-sensor-readings-on-the-serial-port/getting-temperature-readings-from-different-ds18b20-sensors./the-code.md)
 
