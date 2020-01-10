@@ -13,5 +13,6 @@
   * [Getting Started](introducing-the-nodemcu/getting-started/README.md)
     * [A simple test for ESP8266](introducing-the-nodemcu/getting-started/a-simple-test-for-esp8266/README.md)
       * [The Code](introducing-the-nodemcu/getting-started/a-simple-test-for-esp8266/the-code.md)
-* [Read and Display temperature sensor  readings with NodeMCU.](read-and-display-temperature-sensor-readings.md)
+* [Read and Display temperature sensor  readings with NodeMCU.](read-and-display-temperature-sensor-readings/README.md)
+  * [Installing libraries for DS18B20 temperature sensor.](read-and-display-temperature-sensor-readings/installing-libraries-for-ds18b20-temperature-sensor..md)
 
