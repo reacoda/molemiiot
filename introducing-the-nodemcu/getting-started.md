@@ -16,5 +16,9 @@ Add the link: [http://arduino.esp8266.com/stable/package\_esp8266com\_index.json
 
 ![Board Manager \( randomnerdtutorial.com\)](../.gitbook/assets/boardsmanager.png)
 
+Search for ESP8266  and press install button for the “**ESP8266 by ESP8266 Community**“:
+
+![](../.gitbook/assets/esp8266install.png)
+
 
 
