@@ -21,5 +21,5 @@ void loop() {
 
  Once you are done you can upload the code to the NodeMCU. When the code runs you should be able to see the LED blinking. It will turn on for 1 second and turn off for 1 second. 
 
-
+![](../../../.gitbook/assets/nodemcuupload.png)
 
