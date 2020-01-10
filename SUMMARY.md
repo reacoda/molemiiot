@@ -11,5 +11,6 @@
     * [Explaining the Code](introducing-sensors/the-code/explaining-the-code.md)
 * [Introducing the NodeMCU](introducing-the-nodemcu/README.md)
   * [Getting Started](introducing-the-nodemcu/getting-started/README.md)
-    * [A simple test for ESP8266](introducing-the-nodemcu/getting-started/a-simple-test-for-esp8266.md)
+    * [A simple test for ESP8266](introducing-the-nodemcu/getting-started/a-simple-test-for-esp8266/README.md)
+      * [The Code](introducing-the-nodemcu/getting-started/a-simple-test-for-esp8266/the-code.md)
 

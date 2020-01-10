@@ -9,18 +9,20 @@ In order to test the ESP8266 installation we will be doing a similar circuit set
 * A breadboard 
 * male-to-male jumper cables
 
-The first that you will do is connect the USB cable to both the NodeMCU board and the computer you will be using for this activity.
+The first thing  that you will do is setup the circuit and then connect the USB cable to both the NodeMCU board and the computer you will be using for this activity.
+
+![](../../../.gitbook/assets/nodemcucircuit.png)
 
  
 
 For this activity we will be using the ESP-12E NodeMCU developmental kit. So we will setup the Arduino IDE as follows:  
 
 
-![\(randomnerdtutorial.com\)](../../.gitbook/assets/boardsetup.png)
+![\(randomnerdtutorial.com\)](../../../.gitbook/assets/boardsetup.png)
 
 Select the relevant port that is communicating with your NodeMCU board:
 
-![Choosing the port for the NodeMCU \( randomnerdtutorial.com\)](../../.gitbook/assets/nodemcuportsetup.png)
+![Choosing the port for the NodeMCU \( randomnerdtutorial.com\)](../../../.gitbook/assets/nodemcuportsetup.png)
 
 
 
