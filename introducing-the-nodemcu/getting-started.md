@@ -11,5 +11,10 @@ Add the link: [http://arduino.esp8266.com/stable/package\_esp8266com\_index.json
 
 ![](../.gitbook/assets/esp8266url.png)
 
- 
+ Open the "Boards Manager" and go to  **Tools** &gt; **Board** &gt; **Boards Manager**  
+
+
+![Board Manager \( randomnerdtutorial.com\)](../.gitbook/assets/boardsmanager.png)
+
+
 
