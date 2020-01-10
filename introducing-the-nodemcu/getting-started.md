@@ -7,7 +7,9 @@ Open the Arduino IDE software on your computer. Go to   **File**&gt; **Preferenc
 
 ![Adding NodeMCU board \(randomnerdtutorial.com\)](../.gitbook/assets/addnodemcu.png)
 
+Add the link: [http://arduino.esp8266.com/stable/package\_esp8266com\_index.json](http://arduino.esp8266.com/stable/package_esp8266com_index.json) to the “Additional Boards Manager URLs” field as shown in the figure below. Then, click the “OK” button:
 
+![](../.gitbook/assets/esp8266url.png)
 
  
 
