@@ -5,5 +5,5 @@ description: >-
   readings.
 ---
 
-# Read and Display temperature sensor  readings
+# Read and Display temperature sensor  readings with NodeMCU.
 
