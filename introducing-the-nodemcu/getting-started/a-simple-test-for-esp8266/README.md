@@ -11,7 +11,7 @@ In order to test the ESP8266 installation we will be doing a similar circuit set
 
 The first thing  that you will do is setup the circuit and then connect the USB cable to both the NodeMCU board and the computer you will be using for this activity.
 
-![](../../../.gitbook/assets/nodemcucircuit.png)
+![NodeMCU circuit \(randomnerdtutorial.com\)](../../../.gitbook/assets/nodemcucircuit.png)
 
  
 
