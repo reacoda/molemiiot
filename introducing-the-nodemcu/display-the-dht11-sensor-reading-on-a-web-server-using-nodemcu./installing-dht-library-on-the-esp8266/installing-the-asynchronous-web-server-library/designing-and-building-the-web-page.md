@@ -43,5 +43,83 @@ Between the &lt;style&gt;&lt;/style&gt; tags, we add some CSS to style the web p
 </style>
 ```
 
+Basically, we’re setting the HTML page to display the text with Arial font in block without margin, and aligned at the center.
+
+```text
+html {
+  font-family: Arial;
+  display: inline-block;
+  margin: 0px auto;
+  text-align: center;
+}
+```
+
+We set the font size for the heading \(h2\), paragraph \(p\) and the units\(.units\) of the readings.
+
+```text
+h2 { font-size: 3.0rem; }
+p { font-size: 3.0rem; }
+.units { font-size: 1.2rem; }
+```
+
+The labels for the readings are styled as shown below:
+
+```text
+dht-labels{
+  font-size: 1.5rem;
+  vertical-align:middle;
+  padding-bottom: 15px;
+}
+```
+
+All of the previous tags should go between the &lt;head&gt; and &lt;/head&gt; tags. These tags are used to include content that is not directly visible to the user, like the &lt;meta&gt; , the &lt;link&gt; tags, and the styles.
+
+**HTML Body**
+
+Inside the &lt;body&gt;&lt;/body&gt; tags is where we add the web page content.  
+
+
+The &lt;h2&gt;&lt;/h2&gt; tags add a heading to the web page. In this case, the “ESP8266 DHT server” text, but you can add any other text.  
+
+
+```text
+<h2>ESP8266 DHT Server</h2>
+```
+
+Then, there are two paragraphs. One to display the temperature and the other to display the humidity. The paragraphs are delimited by the &lt;p&gt; and &lt;/p&gt; tags. The paragraph for the temperature is the following:
+
+```text
+<p>
+  <i class="fas fa-thermometer-half" style="color:#059e8a;"</i> 
+  <span class="dht-labels">Temperature</span> 
+  <span id="temperature">%TEMPERATURE%</span>
+  <sup class="units">°C</sup>
+</p>
+```
+
+And the paragraph for the humidity is on the following snipet:
+
+```text
+<p>
+  <i class="fas fa-tint" style="color:#00add6;"></i> 
+  <span class="dht-labels">Humidity</span>
+  <span id="humidity">%HUMIDITY%</span>
+  <sup class="units">%</sup>
+</p>
+```
+
+The &lt;i&gt; tags display the fontawesome icons.
+
+**How to display icons**
+
+To chose the icons, go to the [Font Awesome Icons website](https://fontawesome.com/icons?d=gallery).  
+
+
+![FontAwesome Home Page \(randomnerdtutorial.com\)](../../../../.gitbook/assets/fontawesomepage.png)
+
+Search the icon you’re looking for. For example, “thermometer”:
+
+![](../../../../.gitbook/assets/fontawesome-thermometer.png)
+
 
 
