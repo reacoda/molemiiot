@@ -170,5 +170,74 @@ We do the same for the paragraph with temperature in Fahrenheit.
   </p>
 ```
 
- 
+ **Automatic updates**
+
+Finally, there’s some JavaScript code in our web page that updates the temperature and humidity automatically, every 10 seconds.
+
+Scripts in HTML text should go between the &lt;script&gt;&lt;/script&gt; tags.
+
+```text
+<script>
+setInterval(function ( ) {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      document.getElementById("temperature").innerHTML = this.responseText;
+    }
+  };
+  xhttp.open("GET", "/temperature", true);
+  xhttp.send();
+}, 10000 ) ;
+
+setInterval(function ( ) {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      document.getElementById("humidity").innerHTML = this.responseText;
+    }
+  };
+  xhttp.open("GET", "/humidity", true);
+  xhttp.send();
+}, 10000 ) ;
+</script>
+```
+
+To update the temperature **in celsius** on the background, we have a setInterval\(\) function that runs every 10 seconds.
+
+Basically, it makes a request in the _/temperature_ URL to get the latest temperature reading.
+
+```text
+  xhttp.open("GET", "/temperaturec", true);
+  xhttp.send();
+}, 10000 ) ;
+```
+
+When it receives that value, it updates the HTML element whose id is temperaturec.
+
+```text
+if (this.readyState == 4 && this.status == 200) {
+      document.getElementById("temperaturec").innerHTML = this.responseText;
+    }
+```
+
+In summary, this previous section is responsible for updating the temperature asynchronously. The same process is repeated for the temperature in Fahrenheit
+
+**Processor** 
+
+Now, we need to create the processor\(\) function, that will replace the placeholders in our HTML text with the actual temperature
+
+```text
+String processor(const String& var){
+  //Serial.println(var);
+  if(var == "TEMPERATUREC"){
+    return readDSTemperatureC();
+  }
+  else if(var == "TEMPERATUREF"){
+    return readDSTemperatureF();
+  }
+  return String();
+}
+```
+
+
 
