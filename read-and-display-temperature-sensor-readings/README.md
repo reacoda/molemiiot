@@ -20,11 +20,11 @@ The DS18B20 temperature sensor can connected in two different configurations, na
 
 #### Normal Mode 
 
-![Normal Mode \(randomnerdtutorial.com\)](../../.gitbook/assets/ds18b20normalmode%20%281%29.png)
+![Normal Mode \(randomnerdtutorial.com\)](../.gitbook/assets/ds18b20normalmode%20%281%29.png)
 
 #### Parasite Mode 
 
-![](../../.gitbook/assets/ds18b20parasitemode.png)
+![](../.gitbook/assets/ds18b20parasitemode.png)
 
 
 

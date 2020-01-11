@@ -6,9 +6,9 @@ To be able to communicate with the DS18B20 sensor you will need to install the *
 
 On your computer open the Arduino IDE software and open the library manager as follows  **Sketch** &gt; **Include Library** &gt; **Manage Libraries**. and then type "onewire" in the search box and select one wire library by Paul Stoffregen: 
 
-![Installing OneWire library \(randonnerdtutorial.com\)](../../.gitbook/assets/installonewirelibrary.png)
+![Installing OneWire library \(randonnerdtutorial.com\)](../.gitbook/assets/installonewirelibrary.png)
 
 The next step is to search for "dallas temperature" and then install the library by Miles Burton:
 
-![](../../.gitbook/assets/install-dallas-temperature.png)
+![](../.gitbook/assets/install-dallas-temperature.png)
 
