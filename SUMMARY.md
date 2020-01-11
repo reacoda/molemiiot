@@ -22,5 +22,6 @@
             * [Build the web server](introducing-the-nodemcu/read-and-display-temperature-sensor-readings/displaying-the-sensor-readings-on-the-serial-port/getting-temperature-readings-from-different-ds18b20-sensors./the-code/display-sensor-readings-on-a-web-server/build-the-web-server/README.md)
               * [Designing and building the web page](introducing-the-nodemcu/read-and-display-temperature-sensor-readings/displaying-the-sensor-readings-on-the-serial-port/getting-temperature-readings-from-different-ds18b20-sensors./the-code/display-sensor-readings-on-a-web-server/build-the-web-server/designing-and-building-the-web-page.md)
               * [The Code](introducing-the-nodemcu/read-and-display-temperature-sensor-readings/displaying-the-sensor-readings-on-the-serial-port/getting-temperature-readings-from-different-ds18b20-sensors./the-code/display-sensor-readings-on-a-web-server/build-the-web-server/the-code.md)
-  * [Display the DHT11 sensor reading on a web server using NodeMCU.](introducing-the-nodemcu/display-the-dht11-sensor-reading-on-a-web-server-using-nodemcu..md)
+  * [Display the DHT11 sensor reading on a web server using NodeMCU.](introducing-the-nodemcu/display-the-dht11-sensor-reading-on-a-web-server-using-nodemcu./README.md)
+    * [Installing DHT library on the ESP8266](introducing-the-nodemcu/display-the-dht11-sensor-reading-on-a-web-server-using-nodemcu./installing-dht-library-on-the-esp8266.md)
 
