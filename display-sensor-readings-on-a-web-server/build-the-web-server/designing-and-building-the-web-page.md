@@ -107,7 +107,53 @@ Then we add the two paragraphs. One is for the temperature in celsius while the 
   </p>
 ```
 
-The  tags display the fontawesome icons.
+The &lt;i&gt; tags display the fontawesome icons.
+
+**Displaying Icons**
+
+ To chose the icons, go to the [Font Awesome Icons website](https://fontawesome.com/icons?d=gallery).
+
+![Fontawsome home page \(randomnerdtutorial.com\)](../../.gitbook/assets/fontawesomepage.png)
+
+Search the icon you’re looking for. For example, “thermometer”:
+
+![The fontawsome icon for thermometer \(randomnerdtutorial.com\)](../../.gitbook/assets/fontawesome-thermometer.png)
+
+Click the desired icon. Then, you just need to copy the HTML text provided.
+
+![\(randomnerdtutorial.com\)](../../.gitbook/assets/fontawesome-thermometer-html.png)
 
 
+
+To chose the color, you just need to pass the style parameter with the color in hexadecimal, as follows:
+
+```text
+<i class="fas fa-tint" style="color:#00add6;"></i> 
+```
+
+Proceeding with the HTML text…
+
+The next line writes the word “Temperature” into the web page.
+
+```text
+<span class="dht-labels">Temperature</span>
+```
+
+The TEMPERATURE text between % signs is a placeholder for the temperature value.  
+
+
+```text
+<span id="temperature">%TEMPERATURE%</span>
+```
+
+
+
+This means that this **%TEMPERATURE%** text is like a variable that will be replaced by the actual temperature value from the DHT sensor. The placeholders on the HTML text should go between % signs.
+
+Finally, we add the degree symbol.  
+
+
+```text
+<sup class="units">°C</sup>
+```
 
