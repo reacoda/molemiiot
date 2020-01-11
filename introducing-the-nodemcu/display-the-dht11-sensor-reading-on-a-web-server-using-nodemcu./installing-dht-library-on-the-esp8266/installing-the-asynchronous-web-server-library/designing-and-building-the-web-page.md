@@ -385,7 +385,14 @@ Now click the Arduino IDE upload button.
 
 After uploading the code, open the Serial Monitor at a baud rate of 115200. Press the ESP8266 reset button. The ESP8266 IP address will be printed in the serial monitor as shown in the following figure.
 
+![The IP address for the NodeMCU ](../../../../.gitbook/assets/esp8266-ip-address.png)
 
+#### Demonstration
+
+In your local network, go to a browser and type the ESP8266 IP address. It should display the following web page with the latest sensor readings.  
+
+
+![](../../../../.gitbook/assets/esp8266-dht11-dht22-web-server-demo.png)
 
 
 
