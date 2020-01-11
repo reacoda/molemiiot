@@ -82,5 +82,81 @@ In the HTML text we have TEMPERATUREC and TEMPERATUREF between **%** signs. This
 
 This means that this **%TEMPERATUREC%** text is like a variable that will be replaced by the actual temperature value from the sensor. The placeholders on the HTML text should go between **%** signs.
 
+#### Processor 
+
+The next will be to create a processor function that will replace the placeholders in our HTML text with the actual temperature values.
+
+```text
+String processor(const String& var){
+  //Serial.println(var);
+  if(var == "TEMPERATUREC"){
+    return readDSTemperatureC();
+  }
+  else if(var == "TEMPERATUREF"){
+    return readDSTemperatureF();
+  }
+  return String();
+}
+```
+
+When the web page is requested, we check if the HTML has any placeholders. If it finds the %TEMPERATUREC% placeholder, we return the temperature in Celsius by calling the readDSTemperatureC\(\) function created previously.
+
+```text
+if(var == "TEMPERATUREC"){
+  return readDSTemperatureC();
+}
+```
+
+If the placeholder is %TEMPERATUREF%, we return the temperature in Fahrenheit.
+
+```text
+else if(var == "TEMPERATUREF"){
+  return readDSTemperatureF();
+}
+```
+
+In the setup function, initialise the serial monitor for debugging:
+
+```text
+Serial.begin(115200);
+```
+
+Initialise the DS18B20 temperature sensor:
+
+```text
+sensors.begin();
+```
+
+Write the code to connect to the Network and print the IP address:
+
+```text
+WiFi.begin(ssid, password);
+Serial.println("Connecting to WiFi");
+while (WiFi.status() != WL_CONNECTED) {
+  delay(500);
+  Serial.print(".");
+}
+Serial.println();
+  
+// Print ESP8266 Local IP Address
+Serial.println(WiFi.localIP());
+```
+
+Lastly, you need to copy the code below. It serves the purpose of handling the web:
+
+```text
+server.on("/", HTTP_GET, [](AsyncWebServerRequest *request){
+  request->send_P(200, "text/html", index_html, processor);
+});
+server.on("/temperaturec", HTTP_GET, [](AsyncWebServerRequest *request){
+  request->send_P(200, "text/plain", readDSTemperatureC().c_str());
+});
+server.on("/temperaturef", HTTP_GET, [](AsyncWebServerRequest *request){
+  request->send_P(200, "text/plain", readDSTemperatureF().c_str());
+});
+```
+
+When we make a request on the root URL, we send the HTML text that is stored in the index\_html variable. We also need to pass the processor function, that will replace all the placeholders with the right values.
+
 
 
