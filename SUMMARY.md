@@ -20,5 +20,6 @@
       * [The Code](read-and-display-temperature-sensor-readings/displaying-the-sensor-readings-on-the-serial-port/getting-temperature-readings-from-different-ds18b20-sensors./the-code.md)
 * [Display sensor readings on a web server](display-sensor-readings-on-a-web-server/README.md)
   * [Build the web server](display-sensor-readings-on-a-web-server/build-the-web-server/README.md)
+    * [Designing and building the web page](display-sensor-readings-on-a-web-server/build-the-web-server/designing-and-building-the-web-page.md)
     * [The Code](display-sensor-readings-on-a-web-server/build-the-web-server/the-code.md)
 

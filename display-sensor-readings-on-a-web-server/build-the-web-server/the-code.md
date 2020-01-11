@@ -41,5 +41,46 @@ Create an AsyncWebServer object on port 80:
 AsyncWebServer server(80);
 ```
 
+Using the following, read the temperature:
+
+```text
+String readDSTemperatureC() {
+  // Call sensors.requestTemperatures() to issue a global temperature and Requests to all devices on the bus
+  sensors.requestTemperatures(); 
+  float tempC = sensors.getTempCByIndex(0);
+
+  if(tempC == -127.00){
+    Serial.println("Failed to read from DS18B20 sensor");
+    return "--";
+  } else {
+    Serial.print("Temperature Celsius: ");
+    Serial.println(tempC); 
+  }
+  return String(tempC);
+}
+```
+
+In case the sensor is not able to get a valid reading, it returns -127. So, we have an if statement that returns two dashes \(–-\) in case the sensor fails to get the readings.
+
+```text
+if(tempC == -127.00){
+  Serial.println("Failed to read from DS18B20 sensor");
+  return "--";
+```
+
+The reaDSTemperatureF\(\) function works in a similar way but returns the readings in Fahrenheit degrees.
+
+The readings are returned as string type. To convert a float to a string, use the String\(\) function.
+
+```text
+return String(tempC);
+```
+
+The next step is building the web page. The HTML and CSS needed to build the web page are saved on the index\_html variable.
+
+In the HTML text we have TEMPERATUREC and TEMPERATUREF between **%** signs. This is a placeholder for the temperature values.
+
+This means that this **%TEMPERATUREC%** text is like a variable that will be replaced by the actual temperature value from the sensor. The placeholders on the HTML text should go between **%** signs.
+
 
 
