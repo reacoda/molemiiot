@@ -47,5 +47,23 @@ Create an AsyncWebServerobject on port 80.
 AsyncWebServer server(80);
 ```
 
+Create float variables to hold the current temperature and humidity values. The temperature and humidity are updated in the loop\(\).
+
+```text
+float t = 0.0;
+float h = 0.0;
+```
+
+
+
+Create timer variables needed to update the temperature readings every 10 seconds.
+
+```text
+unsigned long previousMillis = 0;    // will store last time DHT was updated
+
+// Updates DHT readings every 10 seconds
+const long interval = 10000; 
+```
+
 
 
