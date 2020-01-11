@@ -15,7 +15,7 @@ description: >-
 
 #### The circuit for the multiple DS18B20 sensors is as follows:
 
-![Multiple DS18B20 sensors \(randomnerdtutorial.com\)](../../../.gitbook/assets/ds18b20_esp8266_multiple_bb.png)
+![Multiple DS18B20 sensors \(randomnerdtutorial.com\)](../../../../.gitbook/assets/ds18b20_esp8266_multiple_bb.png)
 
 
 

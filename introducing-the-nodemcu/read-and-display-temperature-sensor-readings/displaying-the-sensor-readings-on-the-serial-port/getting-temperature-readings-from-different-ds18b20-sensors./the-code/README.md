@@ -113,7 +113,7 @@ The image will be downloaded
 
 Upload this code to the NodeMCU board and this is what you will see once successfully uploaded:
 
-![Serial monitor for multiple DS18B20 sensors \(randomnerdtutorial.com\)](../../../.gitbook/assets/multipleds18b20.png)
+![Serial monitor for multiple DS18B20 sensors \(randomnerdtutorial.com\)](../../../../../.gitbook/assets/multipleds18b20.png)
 
 
 
