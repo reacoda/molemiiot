@@ -377,6 +377,16 @@ Make sure you have the right board and COM port select. Go to **Tools&gt; Board*
 
 ![Selecting an ESP8266 board \(randomnerdtutorial.com\)](../../../../.gitbook/assets/select-esp8266-board-arduino-ide.png)
 
+![Selecting the ESP8266 port \(randomnerdtutorial.com\)](../../../../.gitbook/assets/select-esp8266-port-arduino-ide.png)
+
+Now click the Arduino IDE upload button.
+
+#### ESP8266 IP Address
+
+After uploading the code, open the Serial Monitor at a baud rate of 115200. Press the ESP8266 reset button. The ESP8266 IP address will be printed in the serial monitor as shown in the following figure.
+
+
+
 
 
 
