@@ -136,14 +136,14 @@ Proceeding with the HTML text…
 The next line writes the word “Temperature” into the web page.
 
 ```text
-<span class="dht-labels">Temperature</span>
+<span class="ds-labels">Temperature Celsius</span>
 ```
 
 The TEMPERATURE text between % signs is a placeholder for the temperature value.  
 
 
 ```text
-<span id="temperature">%TEMPERATURE%</span>
+<span id="temperaturec">%TEMPERATUREC%</span>
 ```
 
 
@@ -154,6 +154,21 @@ Finally, we add the degree symbol.
 
 
 ```text
-<sup class="units">°C</sup>
+<sup class="units">&deg;C</sup>
 ```
+
+The  tags make the text superscript.
+
+We do the same for the paragraph with temperature in Fahrenheit.
+
+```text
+<p>
+    <i class="fas fa-thermometer-half" style="color:#059e8a;"></i> 
+    <span class="ds-labels">Temperature Fahrenheit</span>
+    <span id="temperaturef">%TEMPERATUREF%</span>
+    <sup class="units">&deg;F</sup>
+  </p>
+```
+
+ 
 
