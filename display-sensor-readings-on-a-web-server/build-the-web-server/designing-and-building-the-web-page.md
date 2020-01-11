@@ -43,5 +43,26 @@ Between the  tags, we add some CSS to style the web page.
 </style>
 ```
 
+We are setting the HTML page to be written in Arial font with block without margin and aligned to the center:
+
+```text
+html {
+  font-family: Arial;
+  display: inline-block;
+  margin: 0px auto;
+  text-align: center;
+}
+```
+
+We set the font size for the heading \(h2\), paragraph \(p\) and the units\(.units\) of the readings.
+
+
+
+```text
+h2 { font-size: 3.0rem; }
+p { font-size: 3.0rem; }
+.units { font-size: 1.2rem; }
+```
+
 
 
