@@ -41,5 +41,11 @@ Instantiate a DHTobject with the type and pin defined earlier.
 DHT dht(DHTPIN, DHTTYPE);
 ```
 
+Create an AsyncWebServerobject on port 80.
+
+```text
+AsyncWebServer server(80);
+```
+
 
 
