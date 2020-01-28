@@ -11,6 +11,7 @@ description: >-
 * NodeMCU with USB cable
 * Water Flow Sensor
 * Relay Switch 
+* Blynk App 
 
 #### Setting up the circuit
 
