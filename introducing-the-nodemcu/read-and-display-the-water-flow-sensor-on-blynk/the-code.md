@@ -11,5 +11,7 @@ This is done by following the instructions below:
 
 ![Choosing the port \(randomnerdtutorial.com\)](../../.gitbook/assets/image%20%281%29.png)
 
+ 3\) Open the BasicOTA.ino example: **File** &gt; **Examples** &gt; **Arduino OTA** &gt; **BasicOTA.ino** or copy the following sketch to your Arduino IDE.
+
 
 
