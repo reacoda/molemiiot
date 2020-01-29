@@ -6,15 +6,17 @@ This mPFC will be used for research purposes.
 {% tab title="Components" %}
 | Material | Description |
 | :--- | :--- |
-|  |  |
+| GoldAir mini air cooler | Used to cool the environment in the mPFC |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
+{% tab title="Supplier" %}
+|  |  |
+| :--- | :--- |
+| GoldAir mini AIR COOLER | [https://bit.ly/2O7e8Yj](https://bit.ly/2O7e8Yj) |
 {% endtab %}
 {% endtabs %}
 
