@@ -11,3 +11,7 @@ The Molemi PFC will be used for both educational and research purposes. We want 
 
 This document will serve to give a detailed explanation and tutorials on how to build and run a Molemi PFC.  
 
+The mPFC will allow participants/collaborators/candidates/makers/tinkers to learn hardware and software development skills specifically in laser cutting, fabrication, internet of things, data science and machine learning. 
+
+
+
