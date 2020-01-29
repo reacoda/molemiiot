@@ -32,5 +32,6 @@
 * [Data Science for Farming](data-science/README.md)
   * [Getting Started with Colaboratory](data-science/getting-started-with-colaboratory.md)
 * [Machine Learning for Farming](machine-learning-for-farming.md)
-* [Molemi Personal Food Computer](molemi-personal-food-computer.md)
+* [Molemi Personal Food Computer](molemi-personal-food-computer/README.md)
+  * [Bill of Materials](molemi-personal-food-computer/bill-of-materials.md)
 
