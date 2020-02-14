@@ -25,8 +25,6 @@ If this is the first time working with the NodeMCU, you will need to install the
 
 ![Authentication key generated](../.gitbook/assets/createblynkapp.png)
 
-
-
 2. The second thing you will need to do is to add the is include the example code for blynk using the nodeMCU board. 
 
 click on **File &gt; Examples &gt; Blynk &gt; Boards\_WiFi &gt; NodeMCU** 
