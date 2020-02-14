@@ -8,5 +8,5 @@ To start make sure you have a Google account.
 
 Go to your google drive and then go down to 'More' then select 'Colaboratory'.
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
