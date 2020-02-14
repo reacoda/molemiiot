@@ -19,5 +19,5 @@ For this activity we will be controlling the Centurion gate motor with a 2-chann
 
 If this is the first time working with the NodeMCU, you will need to install the ESP8266 board on the Arduino IDE as demonstrated here: 
 
-
+The first thing you will need to do is to add the is include the example code for blynk using the nodeMCU board. 
 
