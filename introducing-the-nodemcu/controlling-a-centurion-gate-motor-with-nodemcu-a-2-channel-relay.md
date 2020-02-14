@@ -11,5 +11,7 @@ For this activity we will be controlling the Centurion gate motor with a 2-chann
 
 #### What will you need ?
 
-
-
+* NodeMCU dev kit 
+* 2-channel relay 
+* An android smartphone with the Blynk app installed.
+* 
