@@ -14,4 +14,10 @@ For this activity we will be controlling the Centurion gate motor with a 2-chann
 * NodeMCU dev kit 
 * 2-channel relay 
 * An android smartphone with the Blynk app installed.
-* 
+* male-to-female jumper cables
+* a desktop computer/laptop with the Arduino IDE installed 
+
+If this is the first time working with the NodeMCU, you will need to install the ESP8266 board on the Arduino IDE as demonstrated here: 
+
+
+
