@@ -20,7 +20,13 @@ For this activity we will be controlling the Centurion gate motor with a 2-chann
 If this is the first time working with the NodeMCU, you will need to install the ESP8266 board on the Arduino IDE as demonstrated here: 
 
 1.  The first thing you will need to do is install the Blynk app on your smartphone and create a New Project. Once you have created it, you will receive the authentication code via the e-mail address that you you signed up with.  
-2. 
+
+![Create a New Project](../.gitbook/assets/createblynkappname.png)
+
+![Authentication key generated](../.gitbook/assets/createblynkapp.png)
+
+
+
 2. The second thing you will need to do is to add the is include the example code for blynk using the nodeMCU board. 
 
 click on **File &gt; Examples &gt; Blynk &gt; Boards\_WiFi &gt; NodeMCU** 
