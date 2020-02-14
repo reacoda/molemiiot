@@ -21,7 +21,7 @@ Circuit setup is as follows:
   
 
 
-![](../.gitbook/assets/image%20%283%29.png)
+![Relay control using NodeMCU through Blynk app by BadBOY \(hackster.io\)](../.gitbook/assets/image%20%283%29.png)
 
 If this is the first time working with the NodeMCU, you will need to install the ESP8266 board on the Arduino IDE as demonstrated here: 
 
