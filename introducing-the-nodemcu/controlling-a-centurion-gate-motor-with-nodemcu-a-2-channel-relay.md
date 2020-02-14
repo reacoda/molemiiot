@@ -7,5 +7,9 @@ description: >-
 
 # Controlling a Centurion gate Motor with NodeMCU a 2-channel relay
 
-For this activity we will be controlling the Centurion gate motor with a 2-channel relay. We will be using the Arduino-based nodeMCU and the Blynk mobile app to control
+For this activity we will be controlling the Centurion gate motor with a 2-channel relay. We will be using the Arduino-based nodeMCU and the Blynk mobile app to control the relay. The Blynk app will have two buttons. One will be to open and the other will be to close the gate. 
+
+#### What will you need ?
+
+
 
