@@ -13,6 +13,7 @@
   * [Getting Started](introducing-the-nodemcu/getting-started/README.md)
     * [A simple test for ESP8266](introducing-the-nodemcu/getting-started/a-simple-test-for-esp8266/README.md)
       * [The Code](introducing-the-nodemcu/getting-started/a-simple-test-for-esp8266/the-code.md)
+  * [Controlling a Centurion gate Motor with NodeMCU a 2-channel relay](introducing-the-nodemcu/controlling-a-centurion-gate-motor-with-nodemcu-a-2-channel-relay.md)
   * [Read and display the water flow sensor on Blynk](introducing-the-nodemcu/read-and-display-the-water-flow-sensor-on-blynk/README.md)
     * [The Code](introducing-the-nodemcu/read-and-display-the-water-flow-sensor-on-blynk/the-code.md)
   * [Read and Display temperature sensor  readings with NodeMCU.](introducing-the-nodemcu/read-and-display-temperature-sensor-readings/README.md)
