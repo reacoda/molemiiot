@@ -39,9 +39,17 @@ Add two buttons for the two relays one labelled "Open Gate" the other "Close Gat
 
 ![](../.gitbook/assets/screenshot_20200214-184846.png)
 
+After adding the buttons, click on the "OPEN GATE" one and then change the logic from 0-1 to 1-0 because the output of the NodeMCU is active LOW. Under the PIN tab, assign it the digital pin D0.
+
+Do the same with the "CLOSE GATE" button and assign the digital pin D1 to it.
+
+ 
+
+![Configuring the OPEN GATE button](../.gitbook/assets/screenshot_20200215-103136.png)
 
 
 
+![](../.gitbook/assets/screenshot_20200215-103136%20%281%29.png)
 
 
 
