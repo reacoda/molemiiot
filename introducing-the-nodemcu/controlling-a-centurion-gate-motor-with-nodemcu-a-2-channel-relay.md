@@ -23,8 +23,8 @@ Circuit setup is as follows:
 
 ![Relay control using NodeMCU through Blynk app by BadBOY \(hackster.io\)](../.gitbook/assets/image%20%284%29.png)
 
-1. Connect one male-to-female jumper cable from the D0 pin on the NodeMCU to the "IN1" PIN on the relay boa 
-
+1. Connect one male-to-female jumper cable from the D0 pin on the NodeMCU to the "IN1" PIN on the relay board.  Also connect the D1 PIN to the "IN2" PIN.
+2. 
 
 
 If this is the first time working with the NodeMCU, you will need to install the ESP8266 board on the Arduino IDE as demonstrated here: 
