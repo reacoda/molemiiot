@@ -1,3 +1,7 @@
+---
+description: We will be setting up the Blynk app so that it can communicate with the
+---
+
 # Setting up Blynk
 
 For this activity we need to setup the Blynk app to communicate with the NodeMCU app to be able to read the water flow sensor. 
