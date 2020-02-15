@@ -49,7 +49,9 @@ Do the same with the "CLOSE GATE" button and assign the digital pin D1 to it.
 
 
 
-![](../.gitbook/assets/screenshot_20200215-103136%20%281%29.png)
+![Configuring the &quot;CLOSE GATE&quot; button ](../.gitbook/assets/screenshot_20200215-103136%20%281%29.png)
+
+
 
 
 
