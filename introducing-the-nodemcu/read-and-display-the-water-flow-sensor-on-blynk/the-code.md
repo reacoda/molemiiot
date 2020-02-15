@@ -105,16 +105,10 @@ The full code is as follows:
 
   Blynk Flow Sensor Water Meter- Calculates Total Water Consumption.
 
-  Source: https://github.com/pkarun/Blynk-Flow-Sensor-Water-Meter
-
 */
 
 
 #define BLYNK_PRINT Serial           // Uncomment for debugging 
-
-//#include "settings.h"           
-//#include "secret.h"                   // <<--- UNCOMMENT this before you use and change values on config.h tab
-//#include "my_secret.h"              // <<--- COMMENT-OUT or REMOVE this line before you use. This is my personal settings.
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
