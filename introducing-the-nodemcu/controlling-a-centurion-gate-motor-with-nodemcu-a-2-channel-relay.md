@@ -39,6 +39,12 @@ Add two buttons for the two relays one labelled "Open Gate" the other "Close Gat
 
 ![](../.gitbook/assets/screenshot_20200214-184846.png)
 
+
+
+
+
+
+
 2. The second thing you will need to do is to add the is include the example code for blynk using the nodeMCU board. 
 
 click on **File &gt; Examples &gt; Blynk &gt; Boards\_WiFi &gt; NodeMCU** 
