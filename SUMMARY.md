@@ -34,6 +34,7 @@
         * [Designing and building the web page](introducing-the-nodemcu/display-the-dht11-sensor-reading-on-a-web-server-using-nodemcu./installing-dht-library-on-the-esp8266/installing-the-asynchronous-web-server-library/designing-and-building-the-web-page.md)
 * [Data Science for Farming](data-science/README.md)
   * [Getting Started with Colaboratory](data-science/getting-started-with-colaboratory.md)
+  * [Introduction to Python forDS using Colab](data-science/introduction-to-python-fords-using-colab.md)
 * [Machine Learning for Farming](machine-learning-for-farming.md)
 * [Molemi Personal Food Computer](molemi-personal-food-computer/README.md)
   * [Bill of Materials](molemi-personal-food-computer/bill-of-materials.md)
