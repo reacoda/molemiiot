@@ -20,9 +20,9 @@ For this activity we will be controlling the Centurion gate motor with a 2-chann
 * 
 Circuit setup is as follows:  
   
+  
 
-
-![Relay control using NodeMCU through Blynk app by BadBOY \(hackster.io\)](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/centuriongatemotor.PNG)
 
 1. Connect one male-to-female jumper cable from the D0 pin on the NodeMCU to the "IN1" PIN on the relay board.  Also connect the D1 PIN to the "IN2" PIN.
 2. 
