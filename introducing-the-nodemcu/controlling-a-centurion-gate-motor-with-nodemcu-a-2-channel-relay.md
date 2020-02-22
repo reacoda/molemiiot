@@ -20,12 +20,16 @@ For this activity we will be controlling the Centurion gate motor with a 2-chann
 * 
 Circuit setup is as follows:  
   
-  
+
+![](../.gitbook/assets/image.png)
+
+
 
 ![](../.gitbook/assets/centuriongatemotor.PNG)
 
 1. Connect one male-to-female jumper cable from the D0 pin on the NodeMCU to the "IN1" PIN on the relay board.  Also connect the D1 PIN to the "IN2" PIN.
-2. 
+2. Connect the 
+
 
 
 If this is the first time working with the NodeMCU, you will need to install the ESP8266 board on the Arduino IDE as demonstrated here: 
