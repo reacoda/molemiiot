@@ -28,7 +28,7 @@ Circuit setup is as follows:
 ![](../.gitbook/assets/centuriongatemotor.PNG)
 
 1. Connect one male-to-female jumper cable from the D0 pin on the NodeMCU to the "IN1" PIN on the relay board.  Also connect the D1 PIN to the "IN2" PIN.
-2. Connect the GND pin of the relay module to the GND pin of the NodeMCU. Then connect the VCC pin of the 
+2. Connect the GND pin of the relay module to the GND pin of the NodeMCU. Then connect the VCC pin of the of the relay module to the VCC
 3. Connect the both of the wires of the motor into the COM of each of the relay modules. 
 4. 
 
