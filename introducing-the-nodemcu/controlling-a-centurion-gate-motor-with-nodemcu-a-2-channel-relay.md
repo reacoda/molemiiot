@@ -28,9 +28,10 @@ Circuit setup is as follows:
 ![](../.gitbook/assets/centuriongatemotor.PNG)
 
 1. Connect one male-to-female jumper cable from the D0 pin on the NodeMCU to the "IN1" PIN on the relay board.  Also connect the D1 PIN to the "IN2" PIN.
-2. Connect the GND pin of the relay module to the GND pin of the NodeMCU. Then connect the VCC pin of the of the relay module to the VCC
+2. Connect the GND pin of the relay module to the GND pin of the NodeMCU. Then connect the VCC pin of the of the relay module to the 5V pin \(the relay needs a power supply of 5V. A nodeMCU only gives an output voltage of 3 - 3.3V so you will need to use an Arduino Uno or a 5V power supply.
 3. Connect the both of the wires of the motor into the COM of each of the relay modules. 
-4. 
+4. For the DC motor, connect the positive terminal of the power supply 
+
 
 
 If this is the first time working with the NodeMCU, you will need to install the ESP8266 board on the Arduino IDE as demonstrated here: 
