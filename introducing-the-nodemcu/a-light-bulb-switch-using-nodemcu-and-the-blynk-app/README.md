@@ -35,7 +35,8 @@ description: >-
 1. Connect the positive terminal of the 5V power supply to the positive on the breadboard. Also connect the negative terminal on the negative of the breadboard. 
 2. Connect the positive pin of the relay module to the positive on the breadboard. Then connect the negative pin of the relay module to the negative on the breadboard.
 3. Connect the signal pin of the relay to pin D0 on the nodeMC.
-4. 
+4. Connect the long leg of the LED to the 
+
 ```text
 #define BLYNK_PRINT Serial        
 #include <ESP8266WiFi.h>        
