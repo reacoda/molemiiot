@@ -21,11 +21,11 @@ For this activity we will be controlling the Centurion gate motor with a 2-chann
 Circuit setup is as follows:  
   
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 
 
-![](../.gitbook/assets/centuriongatemotor.PNG)
+![](../../.gitbook/assets/centuriongatemotor.PNG)
 
 1. Connect one male-to-female jumper cable from the D0 pin on the NodeMCU to the "IN1" PIN on the relay board.  Also connect the D1 PIN to the "IN2" PIN.
 2. Connect the GND pin of the relay module to the GND pin of the NodeMCU. Then connect the VCC pin of the of the relay module to the 5V pin \(the relay needs a power supply of 5V. A nodeMCU only gives an output voltage of 3 - 3.3V so you will need to use an Arduino Uno or a 5V power supply.
@@ -40,13 +40,13 @@ If this is the first time working with the NodeMCU, you will need to install the
 
 1.  The first thing you will need to do is install the Blynk app on your smartphone and create a New Project. Once you have created it, you will receive the authentication code via the e-mail address that you you signed up with.  
 
-![Create a New Project](../.gitbook/assets/createblynkappname.png)
+![Create a New Project](../../.gitbook/assets/createblynkappname.png)
 
-![Authentication key generated](../.gitbook/assets/createblynkapp.png)
+![Authentication key generated](../../.gitbook/assets/createblynkapp.png)
 
 Add two buttons for the two relays one labelled "Open Gate" the other "Close Gate":
 
-![](../.gitbook/assets/screenshot_20200214-184846.png)
+![](../../.gitbook/assets/screenshot_20200214-184846.png)
 
 After adding the buttons, click on the "OPEN GATE" one and then change the logic from 0-1 to 1-0 because the output of the NodeMCU is active LOW. Under the PIN tab, assign it the digital pin D0.
 
@@ -54,11 +54,11 @@ Do the same with the "CLOSE GATE" button and assign the digital pin D1 to it.
 
  
 
-![Configuring the OPEN GATE button](../.gitbook/assets/screenshot_20200215-103136.png)
+![Configuring the OPEN GATE button](../../.gitbook/assets/screenshot_20200215-103136.png)
 
 
 
-![Configuring the &quot;CLOSE GATE&quot; button ](../.gitbook/assets/screenshot_20200215-103136%20%281%29.png)
+![Configuring the &quot;CLOSE GATE&quot; button ](../../.gitbook/assets/screenshot_20200215-103136%20%281%29.png)
 
 
 
@@ -70,7 +70,7 @@ click on **File &gt; Examples &gt; Blynk &gt; Boards\_WiFi &gt; NodeMCU**
 
 This will be the code that you get:
 
-![The example code for Blynk NodeMCU](../.gitbook/assets/blynk_nodemcu.PNG)
+![The example code for Blynk NodeMCU](../../.gitbook/assets/blynk_nodemcu.PNG)
 
 ```text
 /*************************************************************
