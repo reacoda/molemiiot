@@ -22,7 +22,11 @@ Lastly, click on install. This may take a while to download and install. Once it
 
 2. **Install Blynk as zip file in Arduino**
 
-\*\*\*\*
+Download the Blynk library from the following link: [https://github.com/blynkkk/blynk-library/releases/latest](https://github.com/blynkkk/blynk-library/releases/latest) 
+
+Once you have downloaded the zip file, don't unzip it. Just leave it as is
+
+In the Arduino IDE, navigate to Sketch &gt; Include Library &gt; 
 
 
 
