@@ -6,3 +6,12 @@ description: >-
 
 # A light bulb switch using NodeMCU and the Blynk app
 
+### What will you need?
+
+* NodeMCU Dev Kit
+* male-to-male & male-to-female jumper cables 
+* A relay Module 
+* A 220V light bulb
+* globe holder 
+* breadboard 
+* 
