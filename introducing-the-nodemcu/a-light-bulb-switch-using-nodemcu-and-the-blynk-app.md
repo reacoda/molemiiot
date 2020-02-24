@@ -10,10 +10,13 @@ description: >-
 
 * Learn how to setup the circuit for the relay, light bulb and the nodeMCU.
 * Learn how to use a relay module to switch a light bulb on and off.
+* Learn to connect the relay module to the power supply.
 * Learn to setup the Blynk app on your smartphone.
 * Learn how to install the Blynk Library on the Arduino IDE.
 * Learn how to configure the Blynk to connect to your local network.
-* Learn how to configure Blynk code to communicate with your nodeMCU and 
+* Learn how to configure Blynk code to communicate with your nodeMCU and Blynk app.
+
+
 
 ### What will you need?
 
