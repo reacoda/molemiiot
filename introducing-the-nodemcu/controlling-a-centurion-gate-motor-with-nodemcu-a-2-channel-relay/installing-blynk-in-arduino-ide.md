@@ -18,9 +18,11 @@ Once the library manager opens, search for "blynk" in the search bar and in the 
 
 ![selecting the latest version of Blynk \(help.blynk.cc\)](../../.gitbook/assets/image%20%281%29.png)
 
-Lastly, click on install. This may take a while to download and install. Once it is done you can find the new blynk library by clicking  **Sketch &gt; Include Library** 
+Lastly, click on install. This may take a while to download and install. Once it is done you can find the new blynk library by clicking  **Sketch &gt; Include Library** .
 
+2. **Install Blynk as zip file in Arduino**
 
+\*\*\*\*
 
 
 
