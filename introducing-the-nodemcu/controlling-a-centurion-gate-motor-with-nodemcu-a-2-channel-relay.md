@@ -32,6 +32,8 @@ Circuit setup is as follows:
 3. Connect the both of the wires of the motor into the COM of each of the relay modules. 
 4. For the DC motor, connect the positive terminal of the power supply to both the Normally Open \(NO\) pin of the two relay modules. Then connect the negative terminal of the power supply to the two Normally Closed \(NC\) pins of both the relays.
 
+Credit: [https://www.youtube.com/watch?v=BQOji4i4PEc](https://www.youtube.com/watch?v=BQOji4i4PEc)
+
 
 
 If this is the first time working with the NodeMCU, you will need to install the ESP8266 board on the Arduino IDE as demonstrated here: 
