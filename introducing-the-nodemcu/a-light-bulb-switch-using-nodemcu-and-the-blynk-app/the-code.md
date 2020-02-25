@@ -89,6 +89,10 @@ char ssid[] = "YourNetworkName";
 char pass[] = "YourPassword";
 ```
 
+Once you have setup, you can upload the code.
+
+Now open the Blynk app on your smartphone and tap the "play" icon. Now you will be able to switch your light bulb on and off.
+
 
 
 
