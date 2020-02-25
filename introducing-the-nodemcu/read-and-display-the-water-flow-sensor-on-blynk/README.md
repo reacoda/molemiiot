@@ -15,7 +15,7 @@ description: >-
 
 #### Setting up the circuit
 
-![Connecting the water flow sensor to the NodeMCU \(https://github.com/pkarun/Blynk-Flow-Sensor-Water-Meter\)](../../.gitbook/assets/image%20%285%29.png)
+![Connecting the water flow sensor to the NodeMCU \(https://github.com/pkarun/Blynk-Flow-Sensor-Water-Meter\)](../../.gitbook/assets/image%20%286%29.png)
 
 ![](../../.gitbook/assets/kusiniflowsensor.PNG)
 

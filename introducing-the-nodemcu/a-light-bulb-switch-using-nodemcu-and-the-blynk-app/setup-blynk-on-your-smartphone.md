@@ -8,3 +8,7 @@ Once you have signed up, create a New Project by tapping on the "+" icon. Name y
 
 Tap on the "+" icon and add a button. Click on the button to get options to configure and set it up. Name the button "Light Bulb" and assign the output pin to digital pin 0 i.e. DO and set the logic to be 0-1. 
 
+![](../../.gitbook/assets/image%20%283%29.png)
+
+![](../../.gitbook/assets/image%20%2810%29.png)
+

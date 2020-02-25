@@ -12,7 +12,7 @@ This activity will show you how to setup the Blynk platform on the Arduino IDE s
 
 To install the Blynk library, open the Arduino IDE and click on the **Sketch &gt; Include Library &gt; Manage Libraries**
 
-![Opening the library manager \(help.blynk.cc\)](../../.gitbook/assets/image%20%287%29.png)
+![Opening the library manager \(help.blynk.cc\)](../../.gitbook/assets/image%20%288%29.png)
 
 Once the library manager opens, search for "blynk" in the search bar and in the version, select the latest one:
 
