@@ -14,6 +14,7 @@
     * [A simple test for ESP8266](introducing-the-nodemcu/getting-started/a-simple-test-for-esp8266/README.md)
       * [The Code](introducing-the-nodemcu/getting-started/a-simple-test-for-esp8266/the-code.md)
   * [A light bulb switch using NodeMCU and the Blynk app](introducing-the-nodemcu/a-light-bulb-switch-using-nodemcu-and-the-blynk-app/README.md)
+    * [Setup Blynk on your Smartphone](introducing-the-nodemcu/a-light-bulb-switch-using-nodemcu-and-the-blynk-app/setup-blynk-on-your-smartphone.md)
     * [The Code](introducing-the-nodemcu/a-light-bulb-switch-using-nodemcu-and-the-blynk-app/the-code.md)
   * [Controlling a Centurion gate Motor with NodeMCU a 2-channel relay](introducing-the-nodemcu/controlling-a-centurion-gate-motor-with-nodemcu-a-2-channel-relay/README.md)
     * [Installing Blynk in Arduino IDE](introducing-the-nodemcu/controlling-a-centurion-gate-motor-with-nodemcu-a-2-channel-relay/installing-blynk-in-arduino-ide.md)
