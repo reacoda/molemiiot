@@ -27,7 +27,10 @@ This mPFC will be used for research purposes.
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Submersible temperature</p>
+        <p>sensor (</p>
+      </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
