@@ -106,6 +106,10 @@ This mPFC will be used for research purposes.
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
 {% endtab %}
@@ -151,9 +155,11 @@ This mPFC will be used for research purposes.
       <td style="text-align:left">R 66.21</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">2 times 120x120x25 mm
+        <br />12VDC Axial fan</td>
+      <td style="text-align:left"><a href="https://bit.ly/2HYii0Y">https://bit.ly/2HYii0Y</a>
+      </td>
+      <td style="text-align:left">R</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
