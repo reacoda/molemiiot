@@ -56,6 +56,45 @@ This mPFC will be used for research purposes.
       <td style="text-align:left">The brain for the food computer</td>
     </tr>
     <tr>
+      <td style="text-align:left">Raspberry Pi NOIR camera</td>
+      <td style="text-align:left">
+        <p>For taking Infrared images to be used for</p>
+        <p>NDVI analysis</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">HD USB camera</td>
+      <td style="text-align:left">For taking images of the grow chamber</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>2 times 120x120x25 mm 12VDC</p>
+        <p>Axial fan</p>
+      </td>
+      <td style="text-align:left">
+        <p>Used to provide air circulation and</p>
+        <p>for cooling the grow chamber</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Aluminium slab</td>
+      <td style="text-align:left">
+        <p>Used together with one of the fans to cool</p>
+        <p>the grow chamber</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">6 X LED light bulbs</td>
+      <td style="text-align:left">
+        <p>To provide light to the plants in the</p>
+        <p>grow chamber</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">6 X light fittings</td>
+      <td style="text-align:left">For the six LED light bulbs</td>
+    </tr>
+    <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
