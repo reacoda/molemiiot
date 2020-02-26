@@ -37,8 +37,9 @@ This mPFC will be used for research purposes.
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Mini DC Diaphragm water pump</td>
+      <td style="text-align:left">To pump water from the reservoir into the
+        <br />growing tub</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -57,12 +58,42 @@ This mPFC will be used for research purposes.
 {% endtab %}
 
 {% tab title="Supplier" %}
-|  |  |
-| :--- | :--- |
-|  |  |
-| GoldAir mini AIR COOLER | [https://bit.ly/2O7e8Yj](https://bit.ly/2O7e8Yj) |
-|  |  |
-|  |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Component</th>
+      <th style="text-align:left">Supplier</th>
+      <th style="text-align:left">Unit Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">GoldAir mini AIR COOLER</td>
+      <td style="text-align:left"><a href="https://bit.ly/2O7e8Yj">https://bit.ly/2O7e8Yj</a>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>DHT11 Humidity and</p>
+        <p>Temperature sensor</p>
+      </td>
+      <td style="text-align:left"><a href="https://bit.ly/32DJSdH">https://bit.ly/32DJSdH</a>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 {% endtab %}
 {% endtabs %}
 
