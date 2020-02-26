@@ -20,6 +20,17 @@ This mPFC will be used for research purposes.
       <td style="text-align:left">Used to cool the environment in the mPFC</td>
     </tr>
     <tr>
+      <td style="text-align:left">
+        <p>DHT11 Humidity and Temperature</p>
+        <p>sensor</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>

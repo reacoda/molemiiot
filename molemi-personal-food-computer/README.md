@@ -1,7 +1,8 @@
 ---
 description: >-
   This page will give a step-by-step tutorial on how to build a Molemi personal
-  food computer (mPFC) that will be used for educational purposes.
+  food computer (mPFC) that will be used for both educational and research
+  purposes.
 ---
 
 # Molemi Personal Food Computer
