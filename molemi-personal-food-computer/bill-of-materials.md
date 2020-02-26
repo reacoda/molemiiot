@@ -45,12 +45,15 @@ This mPFC will be used for research purposes.
         <br />growing tub</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Arduino Uno</td>
+      <td style="text-align:left">
+        <p>For managing the sensors, actuators and</p>
+        <p>light (Central Nervous System for PFC)</p>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Raspberry Pi 3/4</td>
+      <td style="text-align:left">The brain for the food computer</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
