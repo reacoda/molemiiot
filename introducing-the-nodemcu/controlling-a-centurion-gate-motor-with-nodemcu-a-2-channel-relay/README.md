@@ -19,7 +19,7 @@ For this activity we will be controlling the Centurion gate motor with a 2-chann
 * An android smartphone with the Blynk app installed.
 * male-to-female jumper cables
 * a desktop computer/laptop with the Arduino IDE installed 
-* A 12V DC motor 
+* A DC motor 
 * 
 Circuit setup is as follows:  
   
