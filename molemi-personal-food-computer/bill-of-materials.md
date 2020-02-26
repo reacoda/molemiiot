@@ -159,7 +159,10 @@ This mPFC will be used for research purposes.
         <br />12VDC Axial fan</td>
       <td style="text-align:left"><a href="https://bit.ly/2HYii0Y">https://bit.ly/2HYii0Y</a>
       </td>
-      <td style="text-align:left">R 163.76</td>
+      <td style="text-align:left">
+        <p>R 163.76</p>
+        <p>(R 327.52)</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Raspberry Pi 3/4</td>
