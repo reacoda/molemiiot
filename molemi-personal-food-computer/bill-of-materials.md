@@ -162,7 +162,7 @@ This mPFC will be used for research purposes.
       <td style="text-align:left">R 163.76</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Raspberry Pi 3/4</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
