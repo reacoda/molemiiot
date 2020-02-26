@@ -68,9 +68,10 @@ This mPFC will be used for research purposes.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Mini DC Diaphragm water pump</td>
+      <td style="text-align:left"><a href="https://bit.ly/391Fyap">https://bit.ly/391Fyap</a>
+      </td>
+      <td style="text-align:left">R 102.12</td>
     </tr>
     <tr>
       <td style="text-align:left">GoldAir mini AIR COOLER</td>
@@ -85,7 +86,7 @@ This mPFC will be used for research purposes.
       </td>
       <td style="text-align:left"><a href="https://bit.ly/32DJSdH">https://bit.ly/32DJSdH</a>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">R 75.72</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
