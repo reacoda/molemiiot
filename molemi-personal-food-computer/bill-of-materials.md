@@ -24,7 +24,10 @@ This mPFC will be used for research purposes.
         <p>DHT11 Humidity and Temperature</p>
         <p>sensor</p>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>To measure the ambient humidity and</p>
+        <p>temperature in the grow box.</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
