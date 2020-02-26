@@ -167,6 +167,18 @@ This mPFC will be used for research purposes.
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">Arduino Uno</td>
+      <td style="text-align:left"><a href="https://bit.ly/2uvqAdB">https://bit.ly/2uvqAdB</a>
+      </td>
+      <td style="text-align:left">R 147.20</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Arduino Interface shield</td>
+      <td style="text-align:left"><a href="https://bit.ly/3a7ZHvz">https://bit.ly/3a7ZHvz</a>
+      </td>
+      <td style="text-align:left">R 253.00</td>
+    </tr>
+    <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
