@@ -129,9 +129,12 @@ This mPFC will be used for research purposes.
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">CO2 / TEMPERATURE AND AIR QUALITY SENSOR</td>
+      <td style="text-align:left">
+        <p>It will be used to measure the level/amount of CO2</p>
+        <p>in the growing chamber</p>
+      </td>
+      <td style="text-align:left">shorturl.at/kGX67</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -235,9 +238,12 @@ This mPFC will be used for research purposes.
       <td style="text-align:left">R 27.90</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>CO2/ Temperature air</p>
+        <p>quality sensor</p>
+      </td>
+      <td style="text-align:left">shorturl.at/kBEQ5</td>
+      <td style="text-align:left">R</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
