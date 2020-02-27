@@ -140,7 +140,12 @@ This mPFC will be used for research purposes.
     <tr>
       <td style="text-align:left">Light intensity sensor</td>
       <td style="text-align:left">Will measure the intensity of light in the grow chamber</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p><a href="https://www.adafruit.com/product/4162">Adafruit light intensity</a>
+        </p>
+        <p><a href="https://www.adafruit.com/product/4162">sensor</a>
+        </p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Light Spectroscopy</td>
@@ -249,8 +254,9 @@ This mPFC will be used for research purposes.
     </tr>
     <tr>
       <td style="text-align:left">Light Intensity sensor</td>
-      <td style="text-align:left"><a href="https://shorturl.at/knETW">LIS</a> /</td>
-      <td style="text-align:left">R</td>
+      <td style="text-align:left"><a href="https://shorturl.at/knETW">LIS</a> / <a href="https://www.robotics.org.za/AF4162">Adafruit</a>
+      </td>
+      <td style="text-align:left">R 112.70</td>
     </tr>
     <tr>
       <td style="text-align:left">Light Spectroscopy sensor</td>
