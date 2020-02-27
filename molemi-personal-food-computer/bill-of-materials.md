@@ -280,11 +280,5 @@ This mPFC will be used for research purposes.
   </tbody>
 </table>
 {% endtab %}
-
-{% tab title="Image" %}
-| Component | Image |
-| :--- | :--- |
-|  |  |
-{% endtab %}
 {% endtabs %}
 
