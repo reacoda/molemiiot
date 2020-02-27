@@ -9,6 +9,7 @@ This mPFC will be used for research purposes.
     <tr>
       <th style="text-align:left">Material</th>
       <th style="text-align:left">Description</th>
+      <th style="text-align:left">Datasheet</th>
     </tr>
   </thead>
   <tbody>
@@ -18,6 +19,7 @@ This mPFC will be used for research purposes.
         <p>(X1)</p>
       </td>
       <td style="text-align:left">Used to cool the environment in the mPFC</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -28,6 +30,7 @@ This mPFC will be used for research purposes.
         <p>To measure the ambient humidity and</p>
         <p>temperature in the grow box.</p>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -38,11 +41,13 @@ This mPFC will be used for research purposes.
         <p>To measure the temperature of the</p>
         <p>water + nutrient mixture</p>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Mini DC Diaphragm water pump</td>
       <td style="text-align:left">To pump water from the reservoir into the
         <br />growing tub</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Arduino Uno</td>
@@ -50,10 +55,12 @@ This mPFC will be used for research purposes.
         <p>For managing the sensors, actuators and</p>
         <p>light (Central Nervous System for PFC)</p>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Raspberry Pi 3/4</td>
       <td style="text-align:left">The brain for the food computer</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Raspberry Pi NOIR camera</td>
@@ -61,10 +68,12 @@ This mPFC will be used for research purposes.
         <p>For taking Infrared images to be used for</p>
         <p>NDVI analysis</p>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">HD USB camera</td>
       <td style="text-align:left">For taking images of the grow chamber</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -75,6 +84,7 @@ This mPFC will be used for research purposes.
         <p>Used to provide air circulation and</p>
         <p>for cooling the grow chamber</p>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Aluminium slab</td>
@@ -82,6 +92,7 @@ This mPFC will be used for research purposes.
         <p>Used together with one of the fans to cool</p>
         <p>the grow chamber</p>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">6 X LED light bulbs</td>
@@ -89,10 +100,12 @@ This mPFC will be used for research purposes.
         <p>To provide light to the plants in the</p>
         <p>grow chamber</p>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">6 X light fittings</td>
       <td style="text-align:left">For the six LED light bulbs</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Screw Terminal 4-way</td>
@@ -100,24 +113,36 @@ This mPFC will be used for research purposes.
         <p>For connecting and keeping the wires</p>
         <p>in place.</p>
       </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>RIPCORD wire (0.5mm)</p>
+        <p>red/black</p>
+      </td>
+      <td style="text-align:left">
+        <p>The wire will be used to connect all the</p>
+        <p>components</p>
+      </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
