@@ -95,8 +95,11 @@ This mPFC will be used for research purposes.
       <td style="text-align:left">For the six LED light bulbs</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Screw Terminal 4-way</td>
+      <td style="text-align:left">
+        <p>For connecting and keeping the wires</p>
+        <p>in place.</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
