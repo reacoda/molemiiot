@@ -31,7 +31,8 @@ This mPFC will be used for research purposes.
         <p>To measure the ambient humidity and</p>
         <p>temperature in the grow box.</p>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://bit.ly/389U52F">https://bit.ly/389U52F</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
