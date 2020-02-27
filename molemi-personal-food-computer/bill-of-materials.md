@@ -134,7 +134,8 @@ This mPFC will be used for research purposes.
         <p>It will be used to measure the level/amount of CO2</p>
         <p>in the growing chamber</p>
       </td>
-      <td style="text-align:left">shorturl.at/kGX67</td>
+      <td style="text-align:left"><a href="https://shorturl.at/kGX67">co2 sensor</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -243,7 +244,7 @@ This mPFC will be used for research purposes.
         <p>quality sensor</p>
       </td>
       <td style="text-align:left">shorturl.at/kBEQ5</td>
-      <td style="text-align:left">R</td>
+      <td style="text-align:left">R 301.29</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
