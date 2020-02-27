@@ -138,14 +138,15 @@ This mPFC will be used for research purposes.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Light intensity sensor</td>
+      <td style="text-align:left">Will measure the intensity of light in the grow chamber</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">Light Spectroscopy</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://cdn.sparkfun.com/assets/f/a/1/b/5/IR_LED.pdf">LSSensor</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -247,14 +248,15 @@ This mPFC will be used for research purposes.
       <td style="text-align:left">R 301.29</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Light Intensity sensor</td>
+      <td style="text-align:left"><a href="https://shorturl.at/knETW">LIS</a> /</td>
+      <td style="text-align:left">R</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Light Spectroscopy sensor</td>
+      <td style="text-align:left"><a href="https://shorturl.at/yIMT2">LSSensor</a>
+      </td>
+      <td style="text-align:left">R 1,492.70</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
