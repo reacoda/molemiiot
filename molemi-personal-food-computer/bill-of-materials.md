@@ -19,7 +19,8 @@ This mPFC will be used for research purposes.
         <p>(X1)</p>
       </td>
       <td style="text-align:left">Used to cool the environment in the mPFC</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://bit.ly/3adxV0v">https://bit.ly/3adxV0v</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -118,7 +119,7 @@ This mPFC will be used for research purposes.
     <tr>
       <td style="text-align:left">
         <p>RIPCORD wire (0.5mm)</p>
-        <p>red/black</p>
+        <p>red/black (10 meters)</p>
       </td>
       <td style="text-align:left">
         <p>The wire will be used to connect all the</p>
@@ -170,7 +171,7 @@ This mPFC will be used for research purposes.
       <td style="text-align:left">GoldAir mini AIR COOLER</td>
       <td style="text-align:left"><a href="https://bit.ly/2O7e8Yj">https://bit.ly/2O7e8Yj</a>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">R 280.00</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -202,8 +203,9 @@ This mPFC will be used for research purposes.
     </tr>
     <tr>
       <td style="text-align:left">Raspberry Pi 3/4</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://bit.ly/382mFD0">https://bit.ly/382mFD0</a>
+      </td>
+      <td style="text-align:left">R 802.70</td>
     </tr>
     <tr>
       <td style="text-align:left">Arduino Uno</td>
@@ -222,6 +224,14 @@ This mPFC will be used for research purposes.
       <td style="text-align:left"><a href="https://bit.ly/2wTbDmD">https://bit.ly/2wTbDmD</a>
       </td>
       <td style="text-align:left">R 25.30</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>RIPCORD wire (0.5mm)</p>
+        <p>red/black (10 meters)</p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">R 27.90</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
