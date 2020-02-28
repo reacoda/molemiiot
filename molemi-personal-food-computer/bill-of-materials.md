@@ -115,7 +115,9 @@ This mPFC will be used for research purposes.
         <p>For connecting and keeping the wires</p>
         <p>in place.</p>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/image (13).png" alt/>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
