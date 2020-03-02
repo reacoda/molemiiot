@@ -50,7 +50,8 @@ This mPFC will be used for educational purposes.
       <td style="text-align:left">Mini DC Diaphragm water pump</td>
       <td style="text-align:left">To pump water from the reservoir into the
         <br />growing tub</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://www.mantech.co.za/Datasheets/Products/180742_SGT.pdf">DC Water pump</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Arduino Uno</td>
@@ -58,7 +59,8 @@ This mPFC will be used for educational purposes.
         <p>For managing the sensors, actuators and</p>
         <p>light (Central Nervous System for PFC)</p>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://www.mantech.co.za/Datasheets/Products/ST1025.pdf">Arduino Uno</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Raspberry Pi 3/4</td>
