@@ -43,7 +43,8 @@ This mPFC will be used for educational purposes.
         <p>To measure the temperature of the</p>
         <p>water + nutrient mixture</p>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://cdn-shop.adafruit.com/datasheets/DS18B20.pdf">DS18B20 Datasheet</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Mini DC Diaphragm water pump</td>
