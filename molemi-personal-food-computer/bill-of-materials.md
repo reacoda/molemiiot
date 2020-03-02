@@ -1,6 +1,6 @@
 # Bill of Materials
 
-This mPFC will be used for research purposes.
+This mPFC will be used for educational purposes.
 
 {% tabs %}
 {% tab title="Components" %}
