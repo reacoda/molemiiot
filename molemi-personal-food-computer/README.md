@@ -14,3 +14,13 @@ The mPFC will allow participants/collaborators/candidates/makers/tinkers to lear
 
 
 
+### The Criteria for a general Personal Food Computer
+
+* It needs to be **desktop size** - the controlled-environment food computer needs to be operated on a desk in an indoor research environment. The recommended size might match the size of regular household appliances such as the microwave,  
+* It needs to have a **wide range of functionalities -** in order to make this device a useful for different applications, such as plant phenotyping research and agricultural robotics curriculum, it needs to have a wide range of sensors and actuators.
+* It needs to be **user-friendly** - the user interface that allows users to communicate with and extract data from the device needs to be intuitive, simple and efficient. 
+* It needs to be **low cost** - to reduce the cost of the controlled-environment food computer, the use of non-proprietary hardware and software is proposed.
+* Open-Source \(open information\) - the platform and the data generated from the device needs to be shared among different types of users such as teachers and researchers to allow the replicability of the experiments and to analyse the data generated from/by the devices.
+* 
+
+
