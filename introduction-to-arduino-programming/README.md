@@ -8,7 +8,7 @@ We will be using the Arduino board as it is open-source and affordable.
 
 #### What is an Arduino ?
 
-![Arduino Uno \(arduino.cc\)](.gitbook/assets/arduino-uno.png)
+![Arduino Uno \(arduino.cc\)](../.gitbook/assets/arduino-uno.png)
 
 An Arduino board is an open-source micro-controller that is used to read inputs - temperature and humidity on a sensor, pressing/toggling a button and it is able to give out outputs - turning a motor and switching on an LED \(read [full introduction here](https://www.arduino.cc/en/Guide/Introduction)\).
 
@@ -18,7 +18,7 @@ In order to start using the board, one needs to setup the Arduino IDE on their d
 
 #### The Arduino Anatomy
 
-![The anatomy of the Arduino board \(arduino.cc\)](.gitbook/assets/boardanatomy.svg)
+![The anatomy of the Arduino board \(arduino.cc\)](../.gitbook/assets/boardanatomy.svg)
 
 1. **Digital pins** Use these pins with digitalRead\(\), digitalWrite\(\), and analogWrite\(\). analogWrite\(\) works only on the pins with the PWM symbol.
 2. **Pin 13 LED** The only actuator built-in to your board. Besides being a handy target for your first blink sketch, this LED is very useful for debugging.
