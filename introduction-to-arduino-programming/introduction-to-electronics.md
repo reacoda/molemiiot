@@ -90,7 +90,7 @@ $$
 
 ### Series Circuit Analysis
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 By imagining a charge leaving the positive terminal of the battery and following its path as it traverses the complete loop, it becomes evident that the charge goes through every resistor in consecutive fashion. As such it meets the criteria of a series circuit. Knowing that the circuit is a series circuit, allows you to relate the overall or equivalent resistance of the circuit to the individual resistance values by the equivalent resistance equation discussed above.
 
@@ -102,6 +102,52 @@ The current of a series circuit is the same in the resistors as it is in the bat
 
 $$
 Ibattery = I1 = I2 = I3 = … (series circuits)
+$$
+
+As charge traverses the resistors of a series circuit, there is a drop in electric potential as it passes through each resistor. This drop in electric potential across each resistor is determined by the current through the resistor and the resistance of the resistor. This is consistent with the Ohm's law equation described above \(ΔV = I • R\). Since the current \(I\) in each individual resistor is the same, it is logical to conclude that the resistors with the greatest resistance \(R\) will have the greatest electric potential difference \(ΔV\) impressed across them.
+
+The electric potential difference across the individual resistors of a circuit is often referred to as a **voltage drops**. These voltage drops of the series-connected resistors are mathematically related to the electric potential or voltage rating of the cells or battery which power the circuit. If a charge gains 12 volts of electric potential as it passes through the battery of an electric circuit, then it will lose 12 V as it passes through the external circuit. This 12 V drop in electric potential results from a series of individual drops in electric potential as it passes through the individual resistors of the series circuit. These individual voltage drops \(electric potential difference\) add up to give the total voltage drop of the circuit, In equation form, It can be said that:
+
+$$
+ΔVbattery = ΔV1 + ΔV2 + ΔV3 + … (series circuits)
+$$
+
+where ΔVbattery is the electric potential gained in the battery and ΔV1, ΔV2 and ΔV3 are the voltage drops \(or electric potential differences\) across the individual resistors.
+
+### Parallel Circuit Analysis
+
+![](../.gitbook/assets/image%20%282%29.png)
+
+By imagining a charge leaving the positive terminal of the battery and following its path as it traverses the complete loop, it becomes evident that the charge reaches a branching location prior to reaching a resistor. At the branching location sometimes referred to as a node, charge follows one of the three possible paths through the resistors. Rather than pass through every resistor, a single charge will pass through a single resistor during a complete loop around the circuit. As such it meets the criteria of a parallel circuit. Knowing that the circuit is a parallel circuit, allows you to relate the overall or equivalent resistance of the circuit to the individual resistance values by the equivalent resistance equation discussed above.
+
+$$
+1/Req = 1/R1 + 1/R2 + 1/R3 + … (parallel connections)
+$$
+
+At the branching location, charge is splitting into separate pathways. As such, the current in the individual pathways will be less than the current outside the pathways. The overall current flow in the circuit and the current in the battery is equal to the sum of the current in the individual pathways. In equation form, it can be written that:
+
+$$
+Ibattery = I1 + I2 + I3 + … (parallel circuits)
+$$
+
+The current values of these individual branches are controlled by two quantities - the resistance of the resistor in the branch and the electric potential difference \(ΔV\) impressed across the branch. Consistent with Ohm's law equation discussed above, it can be said that the current in branch 1 is equal to the electric potential difference across branch 1 divided by the resistance of branch 1. Similar statements can be made of the other branches. In equation form, it can be stated that:
+
+$$
+I1= ΔV1 / R1
+$$
+
+$$
+I2= ΔV2 / R2
+$$
+
+$$
+I3= ΔV3 / R3
+$$
+
+The eclectic potential differences \(ΔV1, ΔV2 and ΔV3\) across the individual resistors are often referred to as voltage drops. Similar to series circuits, any charge leaving the battery must encounter the same drop in voltage as the gain that it encounters when passing through the battery. But unlike series circuits, a charge in a parallel circuit will only pass through one resistor. As such, the voltage drop across that resistor must equal the electric potential difference across the battery. In equation form, it can be stated that:
+
+$$
+ΔVbattery = ΔV1 = ΔV2 = ΔV3 + … (parallel circuits)
 $$
 
 
