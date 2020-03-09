@@ -11,8 +11,19 @@ For this activity we will be controlling the Centurion gate motor with a 2-chann
 
 This workshop will be 3 hours long and the following objectives need to be covered in this time period.
 
+### Requirements:
 
+* Bring your own laptop installed with Arduino IDE.
+* Basic knowledge of electric circuits.
+* Android/iOS smartphone installed with the Blynk app.
 
+### What we will provide:
+
+* Centurion Gate motor Box.
+* 12VDC battery.
+* 12 V power supply for the Arduino IOT 33 micro-controller board. 
+* Relay switch module.
+* 
 **The Outcomes of this workshop/Tutorial**
 
 * 
