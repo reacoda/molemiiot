@@ -51,7 +51,7 @@ This workshop will be 3 hours long and the following objectives need to be cover
 
 * **Arduino IoT 33 board -** This will be used as our main controller. It will be used to communicate with the Blynk app. The code/program that will control the 
 * **Relay Switch module -** used to open and close a circuit electro-mechanically or electrically.
-
+* 
 Circuit setup is as follows:  
   
 
