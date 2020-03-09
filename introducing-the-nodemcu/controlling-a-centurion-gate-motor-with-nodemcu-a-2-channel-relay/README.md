@@ -33,8 +33,9 @@ This workshop will be 3 hours long and the following objectives need to be cover
 * The main objective will be to open and close the Centurion motor gate using your smartphone.
 * Learn how to setup/configure your Blynk app to include buttons to open and close the gate.
 * Connect the gate motor to the relay module.
-* Connect the 
-
+* Setup the power supply to power the Arduino IoT 33 board.
+* Setup the 12V battery to power the Centurion Gate motor. 
+* 
 #### What will you need ?
 
 * NodeMCU dev kit 
