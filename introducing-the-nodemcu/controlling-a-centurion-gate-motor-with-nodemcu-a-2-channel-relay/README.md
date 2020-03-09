@@ -23,7 +23,11 @@ This workshop will be 3 hours long and the following objectives need to be cover
 * 12VDC battery.
 * 12 V power supply for the Arduino IOT 33 micro-controller board. 
 * Relay switch module.
-* 
+* jumper cables.
+* Breadboard.
+
+
+
 **The Outcomes of this workshop/Tutorial**
 
 * 
