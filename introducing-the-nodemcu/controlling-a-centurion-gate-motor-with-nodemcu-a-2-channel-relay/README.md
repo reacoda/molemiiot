@@ -35,7 +35,11 @@ This workshop will be 3 hours long and the following objectives need to be cover
 * Connect the gate motor to the relay module.
 * Setup the power supply to power the Arduino IoT 33 board.
 * Setup the 12V battery to power the Centurion Gate motor. 
-* 
+* Setup the Blynk library on the Arduino IDE.
+* Write the code \(on Arduino IDE\) to allow communication between the Blynk app and the Arduino IoT 33 board so that you can toggle the relay module to open and close gate.
+
+
+
 #### What will you need ?
 
 * NodeMCU dev kit 
@@ -44,6 +48,9 @@ This workshop will be 3 hours long and the following objectives need to be cover
 * male-to-female jumper cables
 * a desktop computer/laptop with the Arduino IDE installed 
 * A 12V DC motor 
+* 
+#### Introducing the components:
+
 * 
 Circuit setup is as follows:  
   
