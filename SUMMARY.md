@@ -3,7 +3,7 @@
 * [Space farming using food computers for sustainable farming](README.md)
 * [Introduction to Arduino](introduction-to-arduino-programming/README.md)
   * [Introduction to Electronics](introduction-to-arduino-programming/introduction-to-electronics.md)
-  * [The LED](introduction-to-arduino-programming/the-led.md)
+  * [The Breadboard](introduction-to-arduino-programming/the-led.md)
 * [Controlling LEDs with an Arduino](controlling-leds-with-an-arduino/README.md)
   * [The Code](controlling-leds-with-an-arduino/the-code.md)
   * [Adding a button to control the LEDs](controlling-leds-with-an-arduino/adding-a-button-to-control-the-leds/README.md)

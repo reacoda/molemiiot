@@ -9,6 +9,10 @@ description: >-
 
 For this activity we will be controlling the Centurion gate motor with a 2-channel relay. We will be using the Arduino-based nodeMCU and the Blynk mobile app to control the relay. The Blynk app will have two buttons. One will be to open and the other will be to close the gate. 
 
+This workshop will be 3 hours long and the following objectives need to be covered in this time period.
+
+
+
 **The Outcomes of this workshop/Tutorial**
 
 * 
