@@ -38,11 +38,9 @@ This workshop will be 3 hours long and the following objectives need to be cover
 * Setup the Blynk library on the Arduino IDE.
 * Write the code \(on Arduino IDE\) to allow communication between the Blynk app and the Arduino IoT 33 board so that you can toggle the relay module to open and close gate.
 
-
-
 #### What will you need ?
 
-* NodeMCU dev kit 
+* NodeMCU dev kit/ Arduino IoT 33 board
 * 2-channel relay 
 * An android smartphone with the Blynk app installed.
 * male-to-female jumper cables
