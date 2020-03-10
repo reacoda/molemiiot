@@ -34,6 +34,52 @@ description: >-
 5. Connect the SCL pin of the sensor to the analog pin 5 \(A5\) of the Uno.
 6. Connect the WAKE pin of the sensor to the other GND pin of the Uno.
 
+### The Code 
+
+* Open your Arduino IDE software and configure the board and the port accordingly. 
+* Download the [Adafruit CCS811 library](https://drive.google.com/drive/folders/1T175_657leBks22ww0Fwo_Txzmk026TR) and include it in your Arduino IDE.
+* Add the following code to your IDE:
+
+```text
+#include "Adafruit_CCS811.h"
+Adafruit_CCS811 ccs;
+
+void setup() {
+  Serial.begin(9600);
+  Serial.println("CCS811 test");
+  
+  if(!ccs.begin()){
+    Serial.println("Failed to start sensor! Please check your wiring.");
+    while(1);
+  }
+  //calibrate temperature sensor
+  while(!ccs.available());
+  float temp = ccs.calculateTemperature();
+  ccs.setTempOffset(temp - 25.0);
+}
+
+void loop() {
+  if(ccs.available()){
+    float temp = ccs.calculateTemperature();
+    if(!ccs.readData()){
+      Serial.print("CO2: ");
+      Serial.print(ccs.geteCO2());
+      Serial.print("ppm, TVOC: ");
+      Serial.print(ccs.getTVOC());
+      Serial.print("ppb   Temp:");
+      Serial.println(temp);
+    }
+    else{
+      Serial.println("ERROR!");
+      while(1);
+    }
+  }
+  delay(500);
+}
+```
+
+Open the serial port. Blow on the sensor and see how the sensor values changes.
+
 
 
 
