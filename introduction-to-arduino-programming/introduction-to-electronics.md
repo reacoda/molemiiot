@@ -90,7 +90,7 @@ $$
 
 ### Series Circuit Analysis
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 By imagining a charge leaving the positive terminal of the battery and following its path as it traverses the complete loop, it becomes evident that the charge goes through every resistor in consecutive fashion. As such it meets the criteria of a series circuit. Knowing that the circuit is a series circuit, allows you to relate the overall or equivalent resistance of the circuit to the individual resistance values by the equivalent resistance equation discussed above.
 
@@ -150,5 +150,5 @@ $$
 ΔVbattery = ΔV1 = ΔV2 = ΔV3 + … (parallel circuits)
 $$
 
-
+where ΔVbattery is the electric potential gained in the battery and ΔV1, ΔV2 and ΔV3 are the voltage drops \(or electric potential differences\) across the individual resistors.
 
