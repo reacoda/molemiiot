@@ -11,4 +11,5 @@ BH1750FVI digital light intensity module is a digital light intensity sensor int
 ### Objectives:
 
 * Setup the circuit to allow the Arduino Uno to communicate with the BH1750FVI sensor.
-* 
+* Setup the Arduino IDE to be able to upload the code to the Arduino IDE.
+
