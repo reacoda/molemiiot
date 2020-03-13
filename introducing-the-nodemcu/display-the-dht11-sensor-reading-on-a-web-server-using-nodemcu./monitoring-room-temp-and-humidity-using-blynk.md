@@ -42,5 +42,88 @@ description: >-
 
 ![](../../.gitbook/assets/image%20%286%29.png)
 
+After installing the DHT library from Adafruit, type “**Adafruit Unified Sensor**” in the search box. Scroll all the way down to find the library and install it.
+
+![](../../.gitbook/assets/image%20%2817%29.png)
+
+### The Code:
+
+Add the following code to your Arduino IDE:
+
+```text
+#define BLYNK_PRINT Serial
+
+
+#include <ESP8266WiFi.h>
+#include <BlynkSimpleEsp8266.h>
+#include <DHT.h>
+
+// You should get Auth Token in the Blynk App.
+// Go to the Project Settings (nut icon).
+char auth[] = "YourAuthCode";
+
+// Your WiFi credentials.
+// Set password to "" for open networks.
+char ssid[] = "";
+char pass[] = "";
+
+#define DHTPIN D2          // What digital pin we're connected to
+
+// Uncomment whatever type you're using!
+#define DHTTYPE DHT11     // DHT 11
+//#define DHTTYPE DHT22   // DHT 22, AM2302, AM2321
+//#define DHTTYPE DHT21   // DHT 21, AM2301
+
+DHT dht(DHTPIN, DHTTYPE);
+BlynkTimer timer;
+
+// This function sends Arduino's up time every second to Virtual Pin (5).
+// In the app, Widget's reading frequency should be set to PUSH. This means
+// that you define how often to send data to Blynk App.
+void sendSensor()
+{
+  float h = dht.readHumidity();
+  float t = dht.readTemperature(); // or dht.readTemperature(true) for Fahrenheit
+
+  if (isnan(h) || isnan(t)) {
+    Serial.println("Failed to read from DHT sensor!");
+    return;
+  }
+  // You can send any value at any time.
+  // Please don't send more that 10 values per second.
+  Blynk.virtualWrite(V5, h);
+  Blynk.virtualWrite(V6, t);
+}
+
+void setup()
+{
+  // Debug console
+  Serial.begin(9600);
+
+  Blynk.begin(auth, ssid, pass);
+  // You can also specify server:
+  //Blynk.begin(auth, ssid, pass, "blynk-cloud.com", 80);
+  //Blynk.begin(auth, ssid, pass, IPAddress(192,168,1,100), 8080);
+
+  dht.begin();
+
+  // Setup a function to be called every second
+  timer.setInterval(1000L, sendSensor);
+}
+
+void loop()
+{
+  Blynk.run();
+  timer.run();
+}
+```
+
+* On line 10 of the code above include the authentication key that was sent to you via email.
+* Also add the ssid and password of the local network that you would like to connect to.
+* Upload the code to your NodeMCU dev board.
+* Open your Blynk app again and then press the "play" icon to run your project. You should be able to see the Humidity and temperature.
+
+
+
 
 
