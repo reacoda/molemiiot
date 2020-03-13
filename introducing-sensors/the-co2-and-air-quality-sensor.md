@@ -12,7 +12,7 @@ description: >-
 * Connect the circuit for the CCS811 sensor.
 * Write the code \(and upload on the Arduino Uno board\) to serial print the CO2, ambient temperature and volatile organic compounds. 
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ### What do you need ?
 
@@ -23,9 +23,9 @@ description: >-
 
 ### Setup the Circuit
 
-![The circuit for the CO2 and air quality sensor](../.gitbook/assets/image%20%2815%29.png)
+![The circuit for the CO2 and air quality sensor](../.gitbook/assets/image%20%2816%29.png)
 
-![Pin description of the CCS811 sensor](../.gitbook/assets/image%20%2818%29.png)
+![Pin description of the CCS811 sensor](../.gitbook/assets/image%20%2819%29.png)
 
 1. Insert the CO2 sensor of the breadboard.
 2. Connect the GND pin of the sensor to one of the GND pins of the Arduino Uno.
