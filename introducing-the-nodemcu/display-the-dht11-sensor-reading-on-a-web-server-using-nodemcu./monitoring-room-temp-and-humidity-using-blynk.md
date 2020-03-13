@@ -40,7 +40,7 @@ description: >-
 1.  Open your Arduino IDE and go to **Sketch** &gt; **Include Library** &gt; **Manage Libraries**. The Library Manager should open.
 2.  Search for “**DHT**” on the Search box and install the DHT library from Adafruit.
 
-
+![](../../.gitbook/assets/image%20%285%29.png)
 
 
 

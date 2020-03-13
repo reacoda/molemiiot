@@ -9,7 +9,7 @@ This is done by following the instructions below:
 1. Connect your NodeMCU dev board to the computer using a USB cable.
 2. Select the board and the port number as follows: 
 
-![Choosing the port \(randomnerdtutorial.com\)](../../../.gitbook/assets/image%20%288%29.png)
+![Choosing the port \(randomnerdtutorial.com\)](../../../.gitbook/assets/image%20%289%29.png)
 
  3\) Open the BasicOTA.ino example: **File** &gt; **Examples** &gt; **Arduino OTA** &gt; **BasicOTA.ino** or copy the following sketch to your Arduino IDE.
 
