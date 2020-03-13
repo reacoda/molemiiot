@@ -31,9 +31,9 @@ description: >-
 
 #### Configuring the Blynk app.
 
-1. On the Blynk app create a new project and name it "Monitor Room".
-2. On the "+" icon add the Gauge widget and call name it "Temp". Assign it a virtual pin V5
-3. Add another Gauge widget and call it "Humidity".
+1. On the Blynk app create a new project and name it "Monitor Room". You will receive the authentication key via e-mail.
+2. On the "+" icon add the Gauge widget and call name it "Temp". Assign it a virtual pin V5 and setup the value from 0 to 100.
+3. Add another Gauge widget and call it "Humidity". Assign it a virtual pin V6 and setup the value from 0 to 100.
 4. 
 
 
