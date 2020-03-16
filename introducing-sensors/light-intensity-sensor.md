@@ -25,5 +25,13 @@ BH1750FVI digital light intensity module is a digital light intensity sensor int
 3. Connect the SDA pin of the sensor to the analog pin \(A4\) of the Uno.
 4. Connect the SCL pin of the sensor to the analog pin \(A5\) of the Uno.
 
+#### Configuring  the Arduino IDE 
 
+* Download the following library that will be used with [BH1750FVI](https://drive.google.com/drive/folders/1LbSfsH_kpCTDWFjwupOGzcbk27Y7zwk4)
+* Open the Arduino IDE on your desktop/laptop computer and open **Sketch &gt;  Include Library &gt; Add .Zip Library.** 
+* \*\*\*\*
+
+
+
+\*\*\*\*
 
