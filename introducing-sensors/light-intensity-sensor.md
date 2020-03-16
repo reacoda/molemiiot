@@ -81,10 +81,6 @@ SDA  <----->  A4
      Serial.print(illuminance);    Serial.println(" lux");
 
      delay(1000);
- }
+
 ```
-
-
-
-\*\*\*\*
 
