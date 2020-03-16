@@ -8,7 +8,7 @@ description: >-
 
 BH1750FVI digital light intensity module is a digital light intensity sensor integrated circuit used for two-wire serial bus interface. It uses the light intensity data collected by module to adjust the brightness of LCD and keyboard backlight. The module resolution can detect a wide range of light intensity changes.
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 ### Objectives:
 
@@ -18,5 +18,9 @@ BH1750FVI digital light intensity module is a digital light intensity sensor int
 
 #### Setup the Circuit:
 
+![](../.gitbook/assets/image%20%288%29.png)
 
+1. Connect the GND pin of the sensor to the GND pin of the Arduino Uno.
+2. Connect the V pin of the sensor to the 5v PIN of the Uno.
+3. Connect the SDA pin of the sensor to the 
 

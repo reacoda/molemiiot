@@ -119,7 +119,7 @@ This mPFC will be used for educational purposes.
         <p>in place.</p>
       </td>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/image (23).png" alt/>
+        <img src="../.gitbook/assets/image (24).png" alt/>
       </td>
     </tr>
     <tr>
