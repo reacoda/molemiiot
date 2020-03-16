@@ -22,5 +22,8 @@ BH1750FVI digital light intensity module is a digital light intensity sensor int
 
 1. Connect the GND pin of the sensor to the GND pin of the Arduino Uno.
 2. Connect the V pin of the sensor to the 5v PIN of the Uno.
-3. Connect the SDA pin of the sensor to the 
+3. Connect the SDA pin of the sensor to the analog pin \(A4\) of the Uno.
+4. Connect the SCL pin of the sensor to the analog pin \(A5\) of the Uno.
+
+
 
