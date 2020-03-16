@@ -23,9 +23,9 @@ description: >-
 
 ### Setup the Circuit
 
-![The circuit for the CO2 and air quality sensor](../.gitbook/assets/image%20%2816%29.png)
+![The circuit for the CO2 and air quality sensor](../.gitbook/assets/image%20%2817%29.png)
 
-![Pin description of the CCS811 sensor](../.gitbook/assets/image%20%2820%29.png)
+![Pin description of the CCS811 sensor](../.gitbook/assets/image%20%2821%29.png)
 
 1. Insert the CO2 sensor of the breadboard.
 2. Connect the GND pin of the sensor to one of the GND pins of the Arduino Uno.
