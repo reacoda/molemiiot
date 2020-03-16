@@ -29,7 +29,14 @@ BH1750FVI digital light intensity module is a digital light intensity sensor int
 
 * Download the following library that will be used with [BH1750FVI](https://drive.google.com/drive/folders/1LbSfsH_kpCTDWFjwupOGzcbk27Y7zwk4)
 * Open the Arduino IDE on your desktop/laptop computer and open **Sketch &gt;  Include Library &gt; Add .Zip Library.** 
-* \*\*\*\*
+
+#### The Code:
+
+Include the following code to your Arduino IDE:
+
+```text
+
+```
 
 
 
