@@ -55,7 +55,7 @@ This workshop will be 3 hours long and the following objectives need to be cover
 Circuit setup is as follows:  
   
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 
 

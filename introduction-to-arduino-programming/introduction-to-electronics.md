@@ -90,7 +90,7 @@ $$
 
 ### Series Circuit Analysis
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2814%29%20%281%29.png)
 
 By imagining a charge leaving the positive terminal of the battery and following its path as it traverses the complete loop, it becomes evident that the charge goes through every resistor in consecutive fashion. As such it meets the criteria of a series circuit. Knowing that the circuit is a series circuit, allows you to relate the overall or equivalent resistance of the circuit to the individual resistance values by the equivalent resistance equation discussed above.
 
@@ -116,7 +116,7 @@ where ΔVbattery is the electric potential gained in the battery and ΔV1, ΔV2 
 
 ### Parallel Circuit Analysis
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 By imagining a charge leaving the positive terminal of the battery and following its path as it traverses the complete loop, it becomes evident that the charge reaches a branching location prior to reaching a resistor. At the branching location sometimes referred to as a node, charge follows one of the three possible paths through the resistors. Rather than pass through every resistor, a single charge will pass through a single resistor during a complete loop around the circuit. As such it meets the criteria of a parallel circuit. Knowing that the circuit is a parallel circuit, allows you to relate the overall or equivalent resistance of the circuit to the individual resistance values by the equivalent resistance equation discussed above.
 

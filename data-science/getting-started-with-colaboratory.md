@@ -8,7 +8,7 @@ To start make sure you have a Google account.
 
 Go to your google drive and then go down to 'More' then select 'Colaboratory'.
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 Once you have created your first Notebook and gave it an name, you can do the basics.
 
