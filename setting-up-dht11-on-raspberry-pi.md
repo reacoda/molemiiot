@@ -10,7 +10,7 @@ description: >-
 
 **Step 1**: The first thing that you will need to do is to wire the circuit for the DHT11 sensor with the Raspberry Pi. The VCC pin of the sensor will be connected to the 5V pin on the Raspberry Pi, GND will be connected to the GND of the Pi, lastly the DATA pin will be connected to GPIO 4 on the Raspberry Pi.
 
- **Step 2:**  
+Step 2: The next following task is to install the dependencies   
   
-
+****
 
