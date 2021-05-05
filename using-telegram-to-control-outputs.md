@@ -22,5 +22,17 @@ In this project we will be creating a Telegram bot that will be used in conjunct
 
 ![](.gitbook/assets/install-telegram.png)
 
-**Step 2:** 
+**Step 2:** Open Telegram and search for Botfather as shown below.
+
+ ****
+
+![](.gitbook/assets/telegram-botfather.png)
+
+Once you click on the bot, you will get the following screen:   
+  
+ 
+
+![](.gitbook/assets/start-bot-father-telegram.png)
+
+
 
