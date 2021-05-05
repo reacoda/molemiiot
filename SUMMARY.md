@@ -49,4 +49,5 @@
   * [Bill of Materials](molemi-personal-food-computer/bill-of-materials.md)
 * [Setting up WaziGate on a Raspberry Pi](setting-up-wazigate-on-a-raspberry-pi.md)
 * [Setting up DHT11 on Raspberry Pi](setting-up-dht11-on-raspberry-pi.md)
+* [Using Telegram To Control Outputs](using-telegram-to-control-outputs.md)
 
