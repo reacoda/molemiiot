@@ -34,5 +34,5 @@ Once you click on the bot, you will get the following screen:
 
 ![](.gitbook/assets/start-bot-father-telegram.png)
 
-
+**Step 3:** 
 
